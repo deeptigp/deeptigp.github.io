@@ -1,10 +1,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Deepti Ghadiyaram
 
 # Your name to show in the footer
-author: Some Person
+author: Deepti Ghadiyaram
 
 # --- List of links in the navigation bar --- #
 
@@ -34,12 +34,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "[deeptigp] [at] [fb.com]"
+  facebook: deepti.gp
+  github: deeptigp
+  twitter: deeptigp
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/deeptigp/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -54,7 +54,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
