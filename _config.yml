@@ -9,12 +9,10 @@ author: Deepti Ghadiyaram
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  CV: "aboutme"
+  Publications: "/pubs.html"
+  Datasets: "/datasets.html"
+  Press: "/press.html"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -38,27 +36,8 @@ social-network-links:
   facebook: deepti.gp
   github: deeptigp
   twitter: deeptigp
-#  reddit: yourname
-  linkedin: https://www.linkedin.com/in/deeptigp/
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-  google-scholar: https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1
-
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+  linkedin: deeptigp
+  google-scholar: citations?user=NyKCrmoAAAAJ&hl=en&authuser=1
 
 # --- General options --- #
 
@@ -67,17 +46,12 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
-
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "computer vision,machine learning,deep learning,researcg"
 
 # --- Colours / background image --- #
 
