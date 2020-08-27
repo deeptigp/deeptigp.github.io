@@ -9,7 +9,7 @@ author: Deepti Ghadiyaram
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "aboutme"
+  CV: "/assets/files/CV_ghadiyaram_aug20.pdf"
   Publications: "/pubs.html"
   Datasets: "/datasets.html"
   Press: "/press.html"
