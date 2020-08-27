@@ -10,10 +10,10 @@ author: Deepti Ghadiyaram
 
 navbar-links:
   CV: "/assets/files/CV_ghadiyaram_aug20.pdf"
-  Publications: "/pubs.html"
-  Datasets: "/datasets.html"
-  Press: "/press.html"
-  Blog: "/blog.html"
+  Publications: "/pubs.md"
+  Datasets: "/datasets.md"
+  Press: "/press.md"
+  Blog: "/blog.md"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
