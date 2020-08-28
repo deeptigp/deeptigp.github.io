@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 
 ## External Talks
