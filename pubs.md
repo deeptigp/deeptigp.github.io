@@ -8,7 +8,7 @@ title: Publications
 ### 2020
 
 
-<table border="0" rules=none cellspacing="0" cellpadding="0" width="100%" height="100%">
+<table border="0" rules=none cellspacing="0" cellpadding="0" width="100%" height="90%">
 <tr rules=none>
 <td>
 <img width="100" height="100" src="http://www.fillmurray.com/460/300">
@@ -16,7 +16,7 @@ title: Publications
 <td>
 <b>Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias</b> <br>
   <i> Krishna Kumar Singh, Dhruv Mahajan, Kristen Grauman, Yong-Jae Lee, Matt Feiszli, and <u>Deepti Ghadiyaram</u> </i> <br>
-  [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Singh_Dont_Judge_an_Object_by_Its_Context_Learning_to_Overcome_CVPR_2020_paper.pdf">pdf</a>] [bib] <br>
+  [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Singh_Dont_Judge_an_Object_by_Its_Context_Learning_to_Overcome_CVPR_2020_paper.pdf">pdf</a>] [bib] [<a href="http://krsingh.cs.ucdavis.edu/krishna_files/papers/contextbias/index.html">project page</a>]<br>
  </td>
 </tr>
 
@@ -45,5 +45,6 @@ title: Publications
   [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_ClusterFit_Improving_Generalization_of_Visual_Representations_CVPR_2020_paper.pdf">pdf</a>] [bib] <br>
  </td>
 </tr>
-
 </table>
+
+***2019***
