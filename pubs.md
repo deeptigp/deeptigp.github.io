@@ -1,4 +1,5 @@
 ### Conference papers
+
 ![Some Title](assets/img/avatar-icon.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 	Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias
