@@ -15,7 +15,7 @@ title: Publications
 </td>
 <td>
 <b>Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias</b> <br>
-  <i> Krishna Kumar Singh, Dhruv Mahajan, Kristen Grauman, Yong-Jae Lee, Matt Feiszli, and </i><u> Deepti Ghadiyaram </u> <br>
+  <i> Krishna Kumar Singh, Dhruv Mahajan, Kristen Grauman, Yong-Jae Lee, Matt Feiszli, and </i> <u>Deepti Ghadiyaram</u> <br>
   [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Singh_Dont_Judge_an_Object_by_Its_Context_Learning_to_Overcome_CVPR_2020_paper.pdf">pdf</a>] [bib] <br>
  </td>
 </tr>
