@@ -19,8 +19,8 @@
 </td>
 <td>
   <b> From patches to pictures (PaQ-2-PiQ): Mapping the perceptual space of picture quality </b> <br>
-  <i> Z Ying, H Niu, P Gupta, D Mahajan, D Ghadiyaram, and A Bovik </i>
-  CVPR 2020
+  <i> Z Ying, H Niu, P Gupta, D Mahajan, D Ghadiyaram, and A Bovik </i> <br>
+  CVPR 2020 <br>
   [pdf] [bib] [project page] <br>
  </td>
 </tr>
@@ -32,6 +32,7 @@
 <td>
 <b>ClusterFit: Improving Generalization of Visual Representations </b> <br>
   <i> X Yan, I Misra, A Gupta, D Ghadiyaram, D Mahajan </i> <br>
+  CVPR 2020 <br>
   [pdf] [bib] <br>
  </td>
 </tr>
