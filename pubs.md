@@ -1,6 +1,6 @@
 ### Conference papers
-![Happy Christmas](assets/img/avatar-icon.png)
-
+<img src="assets/img/avatar-icon.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 
 ### Journals
 
