@@ -15,7 +15,7 @@ title: Publications
 </td>
 <td>
 <b>Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias</b> <br>
-  <i> KK Singh, D Mahajan, K Grauman, YJ Lee, M Feiszli </i> <br>
+  <i> Krishna Kumar Singh, Dhruv Mahajan, Kristen Grauman, Yong-Jae Lee, Matt Feiszli, and <u>Deepti Ghadiyaram </u> </i> <br>
   [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Singh_Dont_Judge_an_Object_by_Its_Context_Learning_to_Overcome_CVPR_2020_paper.pdf"> pdf </a>] [bib] <br>
  </td>
 </tr>
@@ -26,7 +26,7 @@ title: Publications
 </td>
 <td>
   <b> From patches to pictures (PaQ-2-PiQ): Mapping the perceptual space of picture quality </b> <br>
-  <i> Z Ying, H Niu, P Gupta, D Mahajan, D Ghadiyaram, and A Bovik </i> <br>
+  <i> Zhenheng Ying<sup>+</sup>, Haoran Niu<sup>+</sup>, Praful Gupta, Dhruv Mahajan, Deepti Ghadiyaram<sup>*</sup>, and Alan Bovik<sup>*</sup> </i> <br>
   CVPR 2020 <br>
   [pdf] [bib] [project page] <br>
  </td>
