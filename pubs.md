@@ -1,3 +1,7 @@
+---
+layout: page
+title: Publications
+---
 ## Conference papers 
 
 ### 2020
