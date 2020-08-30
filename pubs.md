@@ -1,8 +1,6 @@
 ### Conference papers
 
-![Some Title](assets/img/avatar-icon.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-
-	Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias
+<img align="left" src="assets/img/avatar-icon.png"> Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias
 KK Singh, D Mahajan, K Grauman, YJ Lee, M Feiszli
 
 ### Journals
