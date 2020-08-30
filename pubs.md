@@ -1,9 +1,4 @@
-<p align="left">
-  <img width="100" height="100" src="http://www.fillmurray.com/460/300">
-  Hi there I am trying! 
-</p>
-
-<table width="500px" height="100%" border="1">
+<table width="900px" height="200%" border="0">
 <tr>
 <td>
 <img width="100" height="100" src="http://www.fillmurray.com/460/300">
