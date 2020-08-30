@@ -1,9 +1,8 @@
 ### Conference papers
 <img src="assets/img/avatar-icon.png" alt="Kitten"
-	title="A cute kitten" width="150" height="150" 
+	title="A cute kitten" width="150" height="150" 	/>
 	Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias
 KK Singh, D Mahajan, K Grauman, YJ Lee, M Feiszli
-	/>
 
 ### Journals
 
