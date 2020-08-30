@@ -1,9 +1,5 @@
 ### Conference papers
-
-<p><img src="https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg" class="mx-auto d-block" />
-- Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias
-KK Singh, D Mahajan, K Grauman, YJ Lee, M Feiszli
-</p>
+![Happy Christmas]("https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg")
 
 
 ### Journals
@@ -13,6 +9,12 @@ KK Singh, D Mahajan, K Grauman, YJ Lee, M Feiszli
 
 
 
+
+
+<p><img src= class="mx-auto d-block" />
+- Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias
+KK Singh, D Mahajan, K Grauman, YJ Lee, M Feiszli
+</p>
 
 
 ### Book Chapters
