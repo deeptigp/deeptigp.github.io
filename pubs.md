@@ -8,7 +8,7 @@ title: Publications
 ### 2020
 
 
-<table border="0" rules=none cellspacing="0" cellpadding="0" width="100%" height="200">
+<table border="0" rules=none cellspacing="0" cellpadding="0" width="100%" height="100%">
 <tr rules=none>
 <td>
 <img width="100" height="100" src="http://www.fillmurray.com/460/300">
