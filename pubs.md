@@ -28,6 +28,7 @@ title: Publications
   <b> From patches to pictures (PaQ-2-PiQ): Mapping the perceptual space of picture quality </b> <br>
   <i> Zhenheng Ying<sup>+</sup>, Haoran Niu<sup>+</sup>, Praful Gupta, Dhruv Mahajan, <u>Deepti Ghadiyaram</u><sup>+</sup>, and Alan Bovik<sup>+</sup> </i> <br>
   CVPR 2020 <br>
+  <sup>+</sup> <i> indicates equal contribution </i> <br>
   [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Ying_From_Patches_to_Pictures_PaQ-2-PiQ_Mapping_the_Perceptual_Space_of_CVPR_2020_paper.pdf">pdf</a>] [bib] [<a href="https://baidut.github.io/PaQ-2-PiQ/">project page</a>] <br>
  </td>
 </tr>
@@ -40,9 +41,9 @@ title: Publications
 <b>ClusterFit: Improving Generalization of Visual Representations </b> <br>
   <i> Xueting Yan<sup>+</sup>, Ishan Misra<sup>+</sup>, Abhinav Gupta, <u>Deepti Ghadiyaram</u><sup>+</sup>, and Dhruv Mahajan<sup>+</sup> </i> <br>
   CVPR 2020 <br>
-  [pdf] [bib] <br>
+  <sup>+</sup> <i> indicates equal contribution </i> <br>
+  [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_ClusterFit_Improving_Generalization_of_Visual_Representations_CVPR_2020_paper.pdf">pdf</a>] [bib] <br>
  </td>
 </tr>
-
 
 </table>
