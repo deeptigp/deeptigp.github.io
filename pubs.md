@@ -1,5 +1,5 @@
 ### Conference papers
-![Happy Christmas]("https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg")
+![Happy Christmas](assets/img/avatar-icon.png)
 
 
 ### Journals
