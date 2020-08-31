@@ -207,6 +207,7 @@ title: Publications
 </table>
 
 <br>
+
 ## Patents 
 
 
