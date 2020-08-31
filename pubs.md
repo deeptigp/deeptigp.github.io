@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-[Pre-prints](#pre-prints) | [Conference and Journal Publications](#patents) | [Patents](#patents) | [Book Chapters](#book-chapters)| [Journals](#journals)|
+[Pre-prints](#pre-prints) | [Conference and Journal Publications](#conference-and-journal-publications) | [Patents](#patents) | [Book Chapters](#book-chapters)|
 
 
 
@@ -22,7 +22,7 @@ title: Publications
 </tr>
 </table>
 
-## Conference & Journal Publications
+## Conference and Journal Publications
 ### 2020
 
 <table border="0" rules=none cellspacing="0" cellpadding="0">
@@ -118,6 +118,22 @@ title: Publications
 </tr>
 </table>
 
+
+### 2018
+
+<table border="0" rules=none cellspacing="0" cellpadding="0">
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+<b>Large-scale weakly-supervised pre-training for video action recognition </b> <br>
+  <i> <u> Deepti Ghadiyaram</u>, Matt Feiszli, Du Tran, Xueting Yan, Heng Wang, and Dhruv Mahajan</i> <br>
+  CVPR 2019 <br>
+  [<a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Ghadiyaram_Large-Scale_Weakly-Supervised_Pre-Training_for_Video_Action_Recognition_CVPR_2019_paper.pdf">pdf</a>] [bib] [<a href="https://github.com/facebookresearch/VMZ">code</a>]<br>
+ </td>
+</tr>
+</table>
 
 ## Patents 
 - **Predicting a viewer's quality of experience**, _Deepti Ghadiyaram, Janice Pan, Alan C Bovik_
