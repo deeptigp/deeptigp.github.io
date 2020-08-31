@@ -121,7 +121,7 @@ title: Publications
 <a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/76540/US10182097.pdf?sequence=1"> [PDF] </a>
 
 ### Book Chapters
-- <ins>Deepti Ghadiyaram</ins>, Todd Goodall, Lark Kwon Choi, and Alan C. Bovik, **Perceptual Image and Video Quality**, _Encyclopedia of Imgage Processing_ <a href="publications/bookChapter_Quality.pdf">[pdf]</a>
+- **Perceptual Image and Video Quality**, <ins>Deepti Ghadiyaram</ins>, Todd Goodall, Lark Kwon Choi, and Alan C. Bovik, _Encyclopedia of Imgage Processing_ <a href="publications/bookChapter_Quality.pdf">[pdf]</a>
 
-- Lark Kwon Choi, Todd Goodall,  Deepti Ghadiyaram, and Alan C. Bovik, **Perceptual Image Enhancement,**  _Encyclopedia of Imgage Processing_ <a href="publications/Choi_Perceptual_Image_Enhancement.pdf">[pdf]</a>
+- **Perceptual Image Enhancement**, Lark Kwon Choi, Todd Goodall,  <ins>Deepti Ghadiyaram</ins>, and Alan C. Bovik, _Encyclopedia of Imgage Processing_ <a href="publications/Choi_Perceptual_Image_Enhancement.pdf">[pdf]</a>
 
