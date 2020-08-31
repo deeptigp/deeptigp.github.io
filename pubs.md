@@ -116,10 +116,12 @@ title: Publications
 </table>
 
 
-### Journals
-
 ### Patents 
 - **Predicting a viewer's quality of experience**, _Deepti Ghadiyaram, Janice Pan, Alan C Bovik_
 <a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/76540/US10182097.pdf?sequence=1"> [PDF] </a>
 
 ### Book Chapters
+- D. Ghadiyaram**, T. Goodall, L. K. Choi, and A. C. Bovik, **Perceptual Image and Video Quality**, _Encyc. Img. Proc._ <a href="publications/bookChapter_Quality.pdf">[pdf]</a>
+
+- L. K. Choi, T. Goodall,  **D. Ghadiyaram**, and A. C. Bovik, **Perceptual Image Enhancement,**  _Encyc.Img. Proc. (in press)_ <a href="publications/Choi_Perceptual_Image_Enhancement.pdf">[pdf]</a>
+
