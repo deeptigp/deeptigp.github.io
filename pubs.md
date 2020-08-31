@@ -5,7 +5,7 @@ title: Publications
 
 [Pre-prints](#pre-prints) | [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)|
 
-
+<br>
 ## Pre-prints
 
 
@@ -23,6 +23,7 @@ title: Publications
 </tr>
 </table>
 
+<br>
 ## Publications
 
 ### 2020
@@ -205,14 +206,14 @@ title: Publications
 
 </table>
 
-
+<br>
 ## Patents 
 
 
 - **Predicting a viewer's quality of experience**, _Deepti Ghadiyaram, Janice Pan, Alan C Bovik_
 <a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/76540/US10182097.pdf?sequence=1"> [PDF] </a>
 
-
+<br>
 ## Book Chapters
 
 
