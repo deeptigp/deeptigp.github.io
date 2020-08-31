@@ -119,6 +119,7 @@ title: Publications
 ### Journals
 
 ### Patents 
-
+- Predicting a viewer's quality of experience, Deepti Ghadiyaram, Janice Pan, Alan C Bovik 
+<a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/76540/US10182097.pdf?sequence=1"> PDF </a>
 
 ### Book Chapters
