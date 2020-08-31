@@ -297,7 +297,7 @@ title: Publications
  <b>Feature Maps Driven No-Reference Image Quality Prediction of Naturally Distorted Images</b> <br>
  <i><u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
   SPIE Conference of Human Vision and Electronic Imaging, Feb 2015 <br> 
- [<a href="https://ieeexplore.ieee.org/abstract/document/7351526">pdf</a>] [bib] <br>
+ [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9394/93940J/Feature-maps-driven-no-reference-image-quality-prediction-of-authentically/10.1117/12.2084807.short">pdf</a>] [bib] <br>
  </td>
 </tr>
 
@@ -313,6 +313,74 @@ title: Publications
  </td>
 </tr>
 </table>
+
+
+
+### 2014
+<table>
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Online Crowdsourcing of Subjective Quality Assessment of Images</b> <br>
+ <i><u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
+ Journal of Vision, May 2014 <br> 
+ [<a href="https://jov.arvojournals.org/article.aspx?articleid=2144521">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Delivery quality score model for internet video</b> <br>
+ <i> Hojatollah Yeganeh, Roman Kordasiewicz, Michael Gallant, <u>Deepti Ghadiyaram</u>, and Alan C. Bovik </i> <br>
+ Journal of Vision, Oct. 2014 <br> 
+ [<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.661.900&rep=rep1&type=pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Crowdsourcing Study of Subjective Image Quality</b> <br>
+ <i> <u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
+ Asilomar Conf. Signals, Systems, and Computers, Nov. 2014 <br> 
+ [<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.661.900&rep=rep1&type=pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Blind Image Quality Assessment on Real Distorted Images using Deep Belief Nets</b> <br>
+ <i> <u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
+ Global SIP, Dec. 2014 <br> 
+ [<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.661.900&rep=rep1&type=pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Study of the effects of stalling events on the Quality of Experience of mobile streaming videos</b> <br>
+ <i> <u>Deepti Ghadiyaram</u>, Alan C. Bovik, Hojatollah Yeganeh, Roman Kordasiewicz, and Michael Gallant </i> <br>
+ Global SIP, Dec. 2014 <br> 
+ [<a href="https://www.researchgate.net/profile/Hojatollah_Yeganeh/publication/283229572_Study_of_the_effects_of_stalling_events_on_the_quality_of_experience_of_mobile_streaming_videos/links/5638eb9908ae58fe33040e24.pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+</table>
+
 
 <br>
 ## Patents 
