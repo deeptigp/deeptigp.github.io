@@ -2,8 +2,21 @@
 layout: page
 title: Publications
 ---
-## Conference papers 
 
+### Pre-prints
+<table border="0" rules=none cellspacing="0" cellpadding="0">
+ <tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+<b> How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language </b> <br>
+ <i> Amanda Duarte, Shruti Palaskar, <u>Deepti Ghadiyaram</u>, Kenneth DeHaan, Florian Metze, Jordi Torres, and Xavier Giro-i-Nieto </i> <br>
+   ECCV 2020 (<a href="https://slrtp.com/?fbclid=IwAR2Z1pgC_HMn-lFlXf0WZVwopsjFHk2eKZWBCQDVWvJyFPwu7vZIP4EYggs">workshop</a>) <br>
+  [<a href="https://arxiv.org/pdf/2008.08143.pdf">pdf</a>] [bib] [<a href="https://ai.facebook.com/blog/facebook-research-at-eccv-2020/">press</a>]<br>
+ </td>
+</tr>
+</table>
 
 ### 2020
 
