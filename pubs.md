@@ -205,14 +205,12 @@ title: Publications
 </tr>
 </table>
 
-<br>
 ## Patents 
-
 
 - **Predicting a viewer's quality of experience**, _Deepti Ghadiyaram, Janice Pan, Alan C Bovik_
 <a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/76540/US10182097.pdf?sequence=1"> [PDF] </a>
 
-<br>
+
 ## Book Chapters
 
 
