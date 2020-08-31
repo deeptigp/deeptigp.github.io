@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+| [Patents](#patents) | [Book Chapters](#book-chapters)| [Journals](#journals)|
+
 ### Pre-prints
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
@@ -112,3 +114,11 @@ title: Publications
  </td>
 </tr>
 </table>
+
+
+### Journals
+
+### Patents 
+
+
+### Book Chapters
