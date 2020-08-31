@@ -199,10 +199,48 @@ title: Publications
 </td>
 <td>
  <b>In-capture Mobile Video Distortions: A Study of Subjective Behavior and Objective Algorithms</b> <br>
-<i><u>Deepti Ghadiyaram, Janice Pan, Alan C. Bovik, Anush Krishna Moorthy, Prasanjit Panda, and Kai-Chieh Yang </i> <br>
+ <i><u>Deepti Ghadiyaram</u>, Janice Pan, Alan C. Bovik, Anush Krishna Moorthy, Prasanjit Panda, and Kai-Chieh Yang </i> <br>
+ IEEE Transactions on Circuits and Systems for Video Technology, May 2017 <br>
   [<a href="https://ieeexplore.ieee.org/abstract/document/7932975/authors">pdf</a>] [bib] <br>
  </td>
 </tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>No-Reference Quality Assessment of High Dynamic Range Pictures</b> <br>
+ <i> Debarati Kundu, <u>Deepti Ghadiyaram</u>, Alan C. Bovik, and Brian Evans </i> <br>
+ IEEE Transactions of Image Processing, March. 2017 <br> 
+ [<a href="https://ieeexplore.ieee.org/abstract/document/7885070">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Subjective and Objective Quality Assessment of Mobile Videos with In-Capture Distortions</b> <br>
+ <i><u>Deepti Ghadiyaram</u>, Janice Pan, Alan C. Bovik, Anush Krishna Moorthy, Prasanjit Panda, and Kai-Chieh Yang </i> <br>
+ ICASSP, Mar 2017 <br>
+  [<a href="https://ieeexplore.ieee.org/abstract/document/7952385">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Perceptual Quality Prediction on Authentically Distorted Images Using a Bag of Features Approach</b> <br>
+ <i><u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
+ Journal of Vision, Jan 2017 <br>
+  [<a href="https://jov.arvojournals.org/article.aspx?articleid=2599945">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
 </table>
 
 ## Patents 
