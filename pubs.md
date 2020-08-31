@@ -168,6 +168,41 @@ title: Publications
  </td>
 </tr>
 
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Large-scale Crowdsourced Study for Tone-mapped HDR Pictures</b> <br>
+ <i> Debarati Kundu, <u>Deepti Ghadiyaram</u>, Alan C. Bovik, and Brian Evans </i> <br>
+  IEEE Transactions of Image Processing, Oct. 2017 <br>
+  [<a href="http://utw10503.utweb.utexas.edu/publications/2017/kundu2017large.pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>A No-Reference Video Quality Predictor for Compression and Scaling Artifacts</b> <br>
+ <i> <u>Deepti Ghadiyaram</u>, Chao Chen, Sasi Inguva, and Anil Kokaram </i> <br>
+  ICIP, Sept. 2017 <br>
+  [<a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/640b45517cce29461f4dd7238df599900f283ca8.pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>In-capture Mobile Video Distortions: A Study of Subjective Behavior and Objective Algorithms</b> <br>
+<i><u>Deepti Ghadiyaram, Janice Pan, Alan C. Bovik, Anush Krishna Moorthy, Prasanjit Panda, and Kai-Chieh Yang </i> <br>
+  [<a href="https://ieeexplore.ieee.org/abstract/document/7932975/authors">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
 </table>
 
 
