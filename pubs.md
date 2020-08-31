@@ -203,11 +203,9 @@ title: Publications
   [<a href="https://ieeexplore.ieee.org/abstract/document/7932975/authors">pdf</a>] [bib] <br>
  </td>
 </tr>
-
 </table>
 
 <br>
-
 ## Patents 
 
 
