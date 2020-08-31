@@ -80,7 +80,7 @@ title: Publications
 </tr>
 </table>
 
-
+<br>
 ### 2019
 
 
@@ -174,7 +174,7 @@ title: Publications
 <img width="100" height="100" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
- <b>Large-scale Crowdsourced Study for Tone-mapped HDR Pictures</b> <br>
+ <b>Large-scale Crowdsourced Study for tone-mapped HDR pictures</b> <br>
  <i> Debarati Kundu, <u>Deepti Ghadiyaram</u>, Alan C. Bovik, and Brian Evans </i> <br>
   IEEE Transactions of Image Processing, Oct. 2017 <br>
   [<a href="http://utw10503.utweb.utexas.edu/publications/2017/kundu2017large.pdf">pdf</a>] [bib] <br>
@@ -240,8 +240,80 @@ title: Publications
   [<a href="https://jov.arvojournals.org/article.aspx?articleid=2599945">pdf</a>] [bib] <br>
  </td>
 </tr>
+</table>
+
+
+### 2016
+
+<table>
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Massive Online Crowdsourced Study of Subjective and Objective Picture Quality</b> <br>
+ <i><u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
+ IEEE Transactions of Image Processing, Jan. 2016 <br> 
+ [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7327186">pdf</a>] [bib] [<a href="https://live.ece.utexas.edu/research/ChallengeDB/index.html">Database</a>]<br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>No-reference Image Quality Assessment for High Dynamic Range Images</b> <br>
+ <i> Debarati Kundu, <u>Deepti Ghadiyaram</u>, Alan C. Bovik, and Brian Evans </i> <br>
+ Asilomar Conference on Signals, Systems, May. 2016 <br> 
+ [<a href="http://users.ece.utexas.edu/~bevans/papers/2016/noRefHDR/noRefHDRImageQualityEvalAsilomar2016PaperDraft.pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
 
 </table>
+
+
+### 2015
+<table>
+ 
+ <tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>A time-varying subjective quality model for mobile streaming videos with stalling events</b> <br>
+ <i><u>Deepti Ghadiyaram</u>, Janice Pan, and Alan C. Bovik </i> <br>
+ SPIE Engineering + Applications, Aug 2015 <br> 
+ [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9599/959911/A-time-varying-subjective-quality-model-for-mobile-streaming-videos/10.1117/12.2188882.short?webSyncID=9a0ce46e-9e6e-c7a4-9dab-6a0cbad05932&sessionGUID=9ad883c9-d902-bc99-93ce-d268bead49a2&SSO=1">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+
+ <tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Feature Maps Driven No-Reference Image Quality Prediction of Naturally Distorted Images</b> <br>
+ <i><u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
+  SPIE Conference of Human Vision and Electronic Imaging, Feb 2015 <br> 
+ [<a href="https://ieeexplore.ieee.org/abstract/document/7351526">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Scene Statistics of Authentically Distorted Images in Perceptually Relevant Color Spaces for Blind Image Quality Assessment</b> <br>
+ <i><u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
+ ICIP, Jan 2015 <br> 
+ [<a href="https://ieeexplore.ieee.org/abstract/document/7351526">pdf</a>] [bib] <br>
+ </td>
+</tr>
+</table>
+
 <br>
 ## Patents 
 
