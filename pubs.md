@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-[Pre-prints](#pre-prints) | [Conference and Journal Publications](#conference-and-journal-publications) | [Patents](#patents) | [Book Chapters](#book-chapters)|
+[Pre-prints](#pre-prints) | [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)|
 
 
 
@@ -22,7 +22,7 @@ title: Publications
 </tr>
 </table>
 
-## Conference and Journal Publications
+## Publications
 ### 2020
 
 <table border="0" rules=none cellspacing="0" cellpadding="0">
@@ -127,10 +127,10 @@ title: Publications
 <img width="100" height="100" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
-<b>Large-scale weakly-supervised pre-training for video action recognition </b> <br>
-  <i> <u> Deepti Ghadiyaram</u>, Matt Feiszli, Du Tran, Xueting Yan, Heng Wang, and Dhruv Mahajan</i> <br>
-  CVPR 2019 <br>
-  [<a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Ghadiyaram_Large-Scale_Weakly-Supervised_Pre-Training_for_Video_Action_Recognition_CVPR_2019_paper.pdf">pdf</a>] [bib] [<a href="https://github.com/facebookresearch/VMZ">code</a>]<br>
+ <b>Learning a Continuous-Time Streaming Video QoE Model</b> <br>
+  <i> <u> Deepti Ghadiyaram</u>, Janice Pan, and Alan C. Bovik</i> <br>
+  IEEE Transactions of Image Processing, 2018 <br>
+  [<a href="https://www.live.ece.utexas.edu/publications/2018/ghadiyaram2018learning.pdf">pdf</a>] [bib] <br>
  </td>
 </tr>
 </table>
