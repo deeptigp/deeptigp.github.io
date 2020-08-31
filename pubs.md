@@ -4,7 +4,7 @@ title: Publications
 ---
 
 [Pre-prints](#pre-prints) | [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)|
-<br>
+
 
 ## Pre-prints
 
@@ -23,12 +23,9 @@ title: Publications
 </tr>
 </table>
 
-<br>
 ## Publications
-<br>
 
 ### 2020
-
 
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
@@ -140,6 +137,37 @@ title: Publications
   [<a href="https://www.live.ece.utexas.edu/publications/2018/ghadiyaram2018learning.pdf">pdf</a>] [bib] <br>
  </td>
 </tr>
+</table>
+
+
+### 2017
+
+
+<table border="0" rules=none cellspacing="0" cellpadding="0">
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>Deep Convolutional Neural Models for Picture Quality Prediction</b> <br>
+ <i>Jongyoo Kim, Hui Zeng, <u>Deepti Ghadiyaram</u>, Sanghoon Lee, Lei Zhang, and Alan C. Bovik</i><br>
+ IEEE Signal Processing Magazine, Nov. 2017. <br>
+ [<a href="https://www.live.ece.utexas.edu/publications/2017/kim2017deep.pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+<tr rules=none>
+<td>
+<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+</td>
+<td>
+ <b>A Subjective and Objective Study of Stalling Events in Mobile Streaming Videos</b> <br>
+  <i> <u> Deepti Ghadiyaram</u>, Janice Pan, and Alan C. Bovik</i> <br>
+  IEEE Transactions on Circuits and Systems for Video Technology, Oct. 2017 <br>
+  [<a href="https://ieeexplore.ieee.org/abstract/document/8093636">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
 </table>
 
 
