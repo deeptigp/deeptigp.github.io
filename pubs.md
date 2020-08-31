@@ -6,8 +6,9 @@ title: Publications
 [Pre-prints](#pre-prints) | [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)|
 
 
-
 ## Pre-prints
+
+
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
@@ -22,8 +23,12 @@ title: Publications
 </tr>
 </table>
 
+
 ## Publications
+
+
 ### 2020
+
 
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
@@ -77,6 +82,7 @@ title: Publications
 </tr>
 </table>
 
+
 ### 2019
 
 
@@ -121,6 +127,7 @@ title: Publications
 
 ### 2018
 
+
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
@@ -135,11 +142,17 @@ title: Publications
 </tr>
 </table>
 
+
 ## Patents 
+
+
 - **Predicting a viewer's quality of experience**, _Deepti Ghadiyaram, Janice Pan, Alan C Bovik_
 <a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/76540/US10182097.pdf?sequence=1"> [PDF] </a>
 
+
 ## Book Chapters
+
+
 - **Perceptual Image and Video Quality**, <ins>Deepti Ghadiyaram</ins>, Todd Goodall, Lark Kwon Choi, and Alan C. Bovik, _Encyclopedia of Imgage Processing_ <a href="publications/bookChapter_Quality.pdf">[pdf]</a>
 
 - **Perceptual Image Enhancement**, Lark Kwon Choi, Todd Goodall,  <ins>Deepti Ghadiyaram</ins>, and Alan C. Bovik, _Encyclopedia of Imgage Processing_ <a href="publications/Choi_Perceptual_Image_Enhancement.pdf">[pdf]</a>
