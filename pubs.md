@@ -4,7 +4,7 @@ title: Publications
 ---
 
 [Pre-prints](#pre-prints) | [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)|
-
+<br>
 
 ## Pre-prints
 
@@ -23,9 +23,9 @@ title: Publications
 </tr>
 </table>
 
-
+<br>
 ## Publications
-
+<br>
 
 ### 2020
 
