@@ -43,7 +43,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="200" height="200" src="../assets/img/cvpr20_paq2piq.png"></td>
+<img width="200" height="200" src="../assets/img/cvpr_20_paq2piq.png"></td>
 <td>
   <b> From patches to pictures (PaQ-2-PiQ): Mapping the perceptual space of picture quality </b> <br>
   <i> Zhenheng Ying<sup>+</sup>, Haoran Niu<sup>+</sup>, Praful Gupta, Dhruv Mahajan, <u>Deepti Ghadiyaram</u><sup>+</sup>, and Alan Bovik<sup>+</sup> </i> <br>
@@ -73,7 +73,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="100" height="100" src="../assets/img/cvpr19_uru_video.png">
 </td>
 <td>
 <b>Large-scale weakly-supervised pre-training for video action recognition </b> <br>
@@ -85,7 +85,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="100" height="100" src="../assets/img/cvpr19_segmentation.png">
 </td>
 <td>
   <b> Activity driven weakly supervised object detection </b> <br>
@@ -97,7 +97,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="100" height="100" src="../assets/img/cvpr19_lessismore.png">
 </td>
 <td>
 <b> Less is more: Learning highlight detection from video duration </b> <br>
