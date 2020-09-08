@@ -12,7 +12,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
- <img width="400" height="120" src="../assets/img/eccv20_slrtp.png">
+ <img width="350" height="120" src="../assets/img/eccv20_slrtp.png">
 </td>
 <td>
 <b> How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language </b> <br>
