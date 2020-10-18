@@ -3,7 +3,9 @@ layout: page
 title: Publications
 ---
 
-<p align="center"> [Pre-prints](#pre-prints) | [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)| </p>
+<p align="center"> 
+ [Pre-prints](#pre-prints) | [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)| 
+</p>
 
 <br>
 ## Pre-prints
