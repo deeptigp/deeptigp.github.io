@@ -11,7 +11,7 @@ author: Deepti Ghadiyaram
 navbar-links:
   CV: "/assets/files/CV_ghadiyaram_aug20.pdf"
   Publications: "/pubs"
-  Datasets: "/datasets"
+  Data and Code: "/datasets"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
