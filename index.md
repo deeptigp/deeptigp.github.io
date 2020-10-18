@@ -4,7 +4,7 @@ title: Deepti Ghadiyaram
 ---
 <br>
 <figure>
- <img align="left" src="/assets/img/deepti_profile.png" width="300"/>
+ <img align="left" src="/assets/img/deepti_profile.png" width="300">
 <figcaption> [<a href="mailto: deeptigp [at] fb [dot] com">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] [<a href="https://twitter.com/deeptigp">Twitter</a>] </figcaption>
 </figure>
 
