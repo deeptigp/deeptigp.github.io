@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-|:[Pre-prints](#pre-prints) :| : [Publications](#publications) : | : [Patents](#patents) : | : [Book Chapters](#book-chapters) :| 
+|[Pre-prints](#pre-prints)| [Publications](#publications) | [Patents](#patents) | Book Chapters](#book-chapters)| 
 <br>
 ## Pre-prints
 
