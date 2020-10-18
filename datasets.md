@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data and Code
+title: Datasets and Code
 ---
 
 - **LIVE-FB Large-Scale Social Picture Quality Database [2020]**
