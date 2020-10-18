@@ -28,5 +28,5 @@ Prior to joining Facebook AI, I obtained my PhD at the University of Texas at Au
   - IEEE Trans. on Circuits and Syst. for Video Tech. 2015 -, Digital Signal Proc. 2015 -
   - EURASIP J. on Image and Video Proc. 2015 - , J. of Selected Topics in Signal Proc. 2015 -
 - **Conference Reviewer:** 
-  - CVPR 2020 -, AAAI 2020 -, WiML 2019 -, ACM SIGGRAPH 2017 -,
+  - WACV'21, CVPR 2020 -, AAAI 2020 -, WiML 2019 -, ACM SIGGRAPH 2017 -,
   - Indian Conf. on Comp. Vision, Graphics and Image Process.(ICVGIP) 2014 -
