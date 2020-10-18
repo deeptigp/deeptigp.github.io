@@ -1,5 +1,5 @@
 #### Deepti Ghadiyaram
-  <img align="left" src="/assets/img/deepti_profile.jpg" width="250"/> &nbsp; &nbsp;
+  <img align="left" src="/assets/img/deepti_profile.jpg" width="200"/> &nbsp; &nbsp;
 I am a Research Scientist at Facebook AI Applied Research (FAIAR) where I work on Computer Vision, Image and Video Processing, and Machine Learning. I work on problems such as perceptual image and video quality, large-scale video action recognition, fairness and inclusivity.
 
 Prior to joining Facebook AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Alan Bovik on perceptual image and video quality assessment for real-world content. 
