@@ -21,8 +21,8 @@ Prior to joining Facebook AI, I obtained my PhD at the University of Texas at Au
 - I joined Facebook AI Applied Research (FAIAR)
 
 ## Service
-- **Program Committee Member:** AAAI-20
 - **Area Chair:** WiML’20, CVPR’21
+- **Program Committee Member:** AAAI-20
 - **Journal Reviewer:** 
   - IEEE Trans. of Image Proc. 2013 - , IEEE Trans. on Multimedia 2016 - , Elec. Letters 2016 -
   - IEEE Trans. on Circuits and Syst. for Video Tech. 2015 -, Digital Signal Proc. 2015 -
