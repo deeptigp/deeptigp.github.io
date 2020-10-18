@@ -19,3 +19,14 @@ Prior to joining Facebook AI, I obtained my PhD at the University of Texas at Au
 - 3 papers accepted to CVPR'20, 1 oral acceptance.
 - 3 papers accepted to CVPR'19.
 - I joined Facebook AI Applied Research (FAIAR)
+
+## Service
+- **Program Committee Member:** AAAI-20
+- **Area Chair:** WiML’20, CVPR’21
+- **Journal Reviewer:** 
+  - IEEE Trans. of Image Proc. 2013 - , IEEE Trans. on Multimedia 2016 - , Elec. Letters 2016 -
+  - IEEE Trans. on Circuits and Syst. for Video Tech. 2015 -, Digital Signal Proc. 2015 -
+  - EURASIP J. on Image and Video Proc. 2015 - , J. of Selected Topics in Signal Proc. 2015 -
+- **Conference Reviewer:** 
+  - CVPR 2020 -, AAAI 2020 -, WiML 2019 -, ACM SIGGRAPH 2017 -,
+  - Indian Conf. on Comp. Vision, Graphics and Image Process.(ICVGIP) 2014 -
