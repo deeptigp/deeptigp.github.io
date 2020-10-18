@@ -7,7 +7,7 @@ title: Datasets and Code
   * Download a large-scale database containing variable quality social pictures and their subjective evaluations [<a href="https://github.com/niu-haoran/FLIVE_Database/blob/master/database_prep.ipynb">link</a>]
 
 - **Caffe2 and Pytorch codebase for large-scale pretrained video model [2019]**
-* Download our open-sourced caffe2 and pytorch implementation of R(2+1)D and CSN models pre-trained on large-scale (65 million!) weakly-supervised public Instagram videos (IG-65M) [<a href="https://github.com/facebookresearch/VMZ">link</a>]
+  * Download our open-sourced caffe2 and pytorch implementation of R(2+1)D and CSN models pre-trained on large-scale (65 million!) weakly-supervised public Instagram videos (IG-65M) [<a href="https://github.com/facebookresearch/VMZ">link</a>]
 
 - **LIVE Mobile Video Stall Database-II [2017]**
   * Download a video database containing 174 videos distorted with stalling events and their continuous-time and overall subjective scores [<a href="https://live.ece.utexas.edu/research/LIVEStallStudy/liveMobile.html">link</a>]
