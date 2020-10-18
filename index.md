@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Deepti Ghadiyaram
 ---
+## Deepti Ghadiyaram
  <img align="left" src="/assets/img/deepti_profile.png" width="250"/>
 I am a Research Scientist at Facebook AI Applied Research (FAIAR) where I work on Computer Vision, Image and Video Processing, and Machine Learning. I work on problems such as perceptual image and video quality, large-scale video action recognition, fairness and inclusivity.
 
