@@ -3,10 +3,11 @@ layout: page
 title: Deepti Ghadiyaram
 ---
 <br>
-<div class="item">
+<figure>
  <img align="left" src="/assets/img/deepti_profile.png" width="300"/>
-<span class="caption">[<a href="mailto: deeptigp [at] fb [dot] com">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] [<a href="https://twitter.com/deeptigp">Twitter</a>] </span>
-</div>
+<figcaption> [<a href="mailto: deeptigp [at] fb [dot] com">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] [<a href="https://twitter.com/deeptigp">Twitter</a>] </figcaption>
+</figure>
+
 <br>
 I am a Research Scientist at Facebook AI Applied Research (FAIAR) where I work on Computer Vision, Image and Video Processing, and Machine Learning. I work on problems such as perceptual image and video quality, large-scale video action recognition, fairness and inclusivity.
 
