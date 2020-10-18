@@ -2,13 +2,10 @@
 layout: page
 title: Publications
 ---
-<pre>
-               |[Pre-prints](#pre-prints)| [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)| 
-</pre>
+|[Pre-prints](#pre-prints)| [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)| 
 <br>
+
 ## Pre-prints
-
-
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
