@@ -12,11 +12,14 @@ I am a Research Scientist at Facebook AI Applied Research (FAIAR) where I work o
 Prior to joining Facebook AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Alan Bovik on perceptual image and video quality assessment for real-world content. 
 
 ## External Talks 
+- [March 8th, 2021] I was interviewed by IIIT-Hyderabad as part of Alumni Speak series on my journey from an undergraduate student to a successful researcher <a href="https://www.youtube.com/watch?v=aELF0h8fqfo"> link </a> 
 - 3 talks at CVPR'20.
 - 6 talks at CVPR'19.
 - 28th May, 2019: Gave a talk at F8, Facebook's annual developer's conference on <a href="https://www.youtube.com/watch?v=5RcC18WEruk"> large-scale video action recognition </a>
 
 ## News
+- 2 papers accepted at CVPR'21!
+- Our workshop on <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision </a> has been accepted at CVPR'21! 
 - 1 paper accepted in the Sign Language Recognition, Translation & Production (SLRTP) Workshop  ECCV'20.
 - 3 papers accepted to CVPR'20, 1 oral acceptance.
 - 3 papers accepted to CVPR'19.
