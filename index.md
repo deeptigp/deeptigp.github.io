@@ -7,7 +7,7 @@ title: Deepti Ghadiyaram
  <img align="left" src="/assets/img/deepti_profile.png" width="300">
 <figcaption> [<a href="mailto: deeptigp [at] fb [dot] com">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] [<a href="https://twitter.com/deeptigp">Twitter</a>] </figcaption>
 </figure>
-I am a Research Scientist at Facebook AI Applied Research (FAIAR) where I work on Computer Vision, Image and Video Processing, and Machine Learning. I work on problems such as perceptual image and video quality, large-scale video action recognition, fairness and inclusivity.
+I am a Research Scientist at Facebook AI Research (FAIR) where I work on Computer Vision, Image and Video Processing, and Machine Learning. I work on problems such as building fair and inclusive computer vision models, ML explainability, perceptual image and video quality, and large-scale video action recognition.
 
 Prior to joining Facebook AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Alan Bovik on perceptual image and video quality assessment for real-world content. 
 
@@ -18,8 +18,8 @@ Prior to joining Facebook AI, I obtained my PhD at the University of Texas at Au
 - 28th May, 2019: Gave a talk at F8, Facebook's annual developer's conference on <a href="https://www.youtube.com/watch?v=5RcC18WEruk"> large-scale video action recognition </a>
 
 ## News
+- Organizing a full-day workshop on <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision </a> at CVPR'21! 
 - 2 papers accepted at CVPR'21!
-- Our workshop on <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision </a> has been accepted at CVPR'21! 
 - 1 paper accepted in the Sign Language Recognition, Translation & Production (SLRTP) Workshop  ECCV'20.
 - 3 papers accepted to CVPR'20, 1 oral acceptance.
 - 3 papers accepted to CVPR'19.
