@@ -18,20 +18,22 @@ Prior to joining Facebook AI, I obtained my PhD at the University of Texas at Au
 - 28th May, 2019: Gave a talk at F8, Facebook's annual developer's conference on <a href="https://www.youtube.com/watch?v=5RcC18WEruk"> large-scale video action recognition </a>
 
 ## News
-- Organizing a full-day workshop on <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision </a> at CVPR'21! 
+
+- I am serving as an Area Chair for AAAI'22, WiML workshop @ NeurIPS'21
+- 1 paper accepted at ECCV'21!
+- I was the main organizer of a full-day workshop on <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision </a> at CVPR'21! 
 - 2 papers accepted at CVPR'21!
 - 1 paper accepted in the Sign Language Recognition, Translation & Production (SLRTP) Workshop  ECCV'20.
 - 3 papers accepted to CVPR'20, 1 oral acceptance.
 - 3 papers accepted to CVPR'19.
-- I joined Facebook AI Applied Research (FAIAR)
 
 ## Service
-- **Area Chair:** WiML’20, CVPR’21
+- **Area Chair:** WiML’20, CVPR’21, WiML@NeurIPS'21, AAAI'22.
 - **Program Committee Member:** AAAI-20
 - **Journal Reviewer:** 
   - IEEE Trans. of Image Proc. 2013 - , IEEE Trans. on Multimedia 2016 - , Elec. Letters 2016 -
   - IEEE Trans. on Circuits and Syst. for Video Tech. 2015 -, Digital Signal Proc. 2015 -
   - EURASIP J. on Image and Video Proc. 2015 - , J. of Selected Topics in Signal Proc. 2015 -
 - **Conference Reviewer:** 
-  - WACV'21, CVPR 2020 -, AAAI 2020 -, WiML 2019 -, ACM SIGGRAPH 2017 -,
-  - Indian Conf. on Comp. Vision, Graphics and Image Process.(ICVGIP) 2014 -
+  - AISTATS'22, WACV'21, CVPR 2020 -, AAAI 2020 -, WiML 2019 -, ACM SIGGRAPH 2017 -,
+  - Indian Conf. on Comp. Vision, Graphics and Image Process.(ICVGIP) 2014 - current
