@@ -4,7 +4,7 @@ title: Deepti Ghadiyaram
 ---
 <br>
 <figure>
- <img align="left" src="/assets/img/deepti_pic_cropped.png" width="300">
+ <img align="left" src="/assets/img/deepti_pic_cropped.png" width="330">
 <figcaption> [<a href="mailto: deeptigp [at] fb [dot] com">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] [<a href="https://twitter.com/deeptigp">Twitter</a>] </figcaption>
 </figure>
 I am a Research Scientist at Facebook AI Research (FAIR) where I work on Computer Vision, Image and Video Processing, and Machine Learning. I work on problems such as building fair and inclusive computer vision models, ML explainability, perceptual image and video quality, and large-scale video action recognition.
