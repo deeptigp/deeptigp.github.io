@@ -5,21 +5,6 @@ title: Publications
 |[Pre-prints](#pre-prints)| [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)| 
 <br>
 
-## Pre-prints
-<table border="0" rules=none cellspacing="0" cellpadding="0">
- <tr rules=none>
-<td>
- <img width="350" height="120" src="../assets/img/eccv20_slrtp.png">
-</td>
-<td>
-<b> How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language </b> <br>
- <i> Amanda Duarte, Shruti Palaskar, <u>Deepti Ghadiyaram</u>, Kenneth DeHaan, Florian Metze, Jordi Torres, and Xavier Giro-i-Nieto </i> <br>
-   CVPR 2021 <br>
-  [<a href="https://arxiv.org/pdf/2008.08143.pdf">pdf</a>] [bib] [<a href="https://ai.facebook.com/blog/facebook-research-at-eccv-2020/">press</a>]<br>
- </td>
-</tr>
-</table>
-
 <br>
 ## Publications
 [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)| [2016](#2016) | [2015](#2015) | [2014](#2014)
@@ -27,7 +12,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/eccv20_slrtp.png">
+ <img width="350" height="120" src="../assets/img/2021_iccv21_shotboundary.png">
 </td>
 <td>
 <b> Generic Event Boundary Detection: A Benchmark for Event Segmentation </b> <br>
@@ -39,7 +24,7 @@ title: Publications
 
  <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/eccv20_slrtp.png">
+ <img width="350" height="120" src="../assets/img/2021_cvpr21_patchvq.png">
 </td>
 <td>
 <b> Patch-VQ: 'Patching Up' the Video Quality Problem </b> <br>
