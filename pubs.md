@@ -30,9 +30,47 @@ title: Publications
  <img width="350" height="120" src="../assets/img/eccv20_slrtp.png">
 </td>
 <td>
+<b> Patch-VQ: 'Patching Up' the Video Quality Problem </b> <br>
+ <i> Zhenqiang Ying, Maniratnam Mandal, **Deepti Ghadiyaram***, Alan Bovik* </i> <br>
+  [*] indicates equal contribution
+   CVPR 2021 <br>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Ying_Patch-VQ_Patching_Up_the_Video_Quality_Problem_CVPR_2021_paper.html"> pdf</a>] [bib] <br>
+ </td>
+</tr>
+ 
+ <tr rules=none>
+<td>
+ <img width="350" height="120" src="../assets/img/eccv20_slrtp.png">
+</td>
+<td>
 <b> How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language </b> <br>
  <i> Amanda Duarte, Shruti Palaskar, <u>Deepti Ghadiyaram</u>, Kenneth DeHaan, Florian Metze, Jordi Torres, and Xavier Giro-i-Nieto </i> <br>
-   ECCV 2020 (<a href="https://slrtp.com/?fbclid=IwAR2Z1pgC_HMn-lFlXf0WZVwopsjFHk2eKZWBCQDVWvJyFPwu7vZIP4EYggs">workshop</a>) <br>
+   CVPR 2021 <br>
+  [<a href="https://arxiv.org/pdf/2008.08143.pdf">pdf</a>] [bib] [<a href="https://ai.facebook.com/blog/facebook-research-at-eccv-2020/">press</a>]<br>
+ </td>
+</tr>
+ 
+ <tr rules=none>
+<td>
+ <img width="350" height="120" src="../assets/img/eccv20_slrtp.png">
+</td>
+<td>
+<b> How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language </b> <br>
+ <i> Amanda Duarte, Shruti Palaskar, <u>Deepti Ghadiyaram</u>, Kenneth DeHaan, Florian Metze, Jordi Torres, and Xavier Giro-i-Nieto </i> <br>
+   CVPR 2021 <br>
+  [<a href="https://arxiv.org/pdf/2008.08143.pdf">pdf</a>] [bib] [<a href="https://ai.facebook.com/blog/facebook-research-at-eccv-2020/">press</a>]<br>
+ </td>
+</tr>
+ 
+ 
+ <tr rules=none>
+<td>
+ <img width="350" height="120" src="../assets/img/eccv20_slrtp.png">
+</td>
+<td>
+<b> How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language </b> <br>
+ <i> Amanda Duarte, Shruti Palaskar, <u>Deepti Ghadiyaram</u>, Kenneth DeHaan, Florian Metze, Jordi Torres, and Xavier Giro-i-Nieto </i> <br>
+   CVPR 2021 <br>
   [<a href="https://arxiv.org/pdf/2008.08143.pdf">pdf</a>] [bib] [<a href="https://ai.facebook.com/blog/facebook-research-at-eccv-2020/">press</a>]<br>
  </td>
 </tr>
