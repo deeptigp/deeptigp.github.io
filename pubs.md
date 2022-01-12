@@ -12,7 +12,7 @@ title: Publications
 <td>
 <b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
  <i>  Maniratnam Mandal, <u> Deepti Ghadiyaram </u>, Danna Gurari, and Alan Bovik </i> <br>
-   [<a href="../assets/pdf/visually_challenged_iqa_cvpr22.pdf">pdf</a>] [bib] <br>
+   [<a href="../assets/files/visually_challenged_iqa_cvpr22.pdf">pdf</a>] [bib] <br>
  </td>
 </tr>
 
@@ -23,7 +23,7 @@ title: Publications
 <td>
 <b> Multimodal Quality Assessment of Telepresence Videos</b> <br>
  <i>  Zhenqiang Ying, <u> Deepti Ghadiyaram*</u>, and Alan Bovik* </i> (joint contribution) <br>
-   [<a href="../assets/pdf/Telepresence_QA.pdf">pdf</a>] [bib] <br>
+   [<a href="../assets/files/Telepresence_QA.pdf">pdf</a>] [bib] <br>
  </td>
 </tr>
 
