@@ -4,8 +4,33 @@ title: Publications
 ---
 |[Pre-prints](#pre-prints)| [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)| 
 <br>
+<table border="0" rules=none cellspacing="0" cellpadding="0">
+ <tr rules=none>
+<td>
+ <img width="350" height="120" src="../assets/img/2022_cvpr_vqa.png">
+</td>
+<td>
+<b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
+ <i>  Maniratnam Mandal, <u> Deepti Ghadiyaram </u>, Danna Gurari, and Alan Bovik </i> <br>
+   [<a href="../assets/pdf/visually_challenged_iqa_cvpr22.pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
 
+<tr rules=none>
+<td>
+ <img width="350" height="120" src="../assets/img/2022_cvpr_telepresence.png">
+</td>
+<td>
+<b> Multimodal Quality Assessment of Telepresence Videos</b> <br>
+ <i>  Zhenqiang Ying, <u> Deepti Ghadiyaram*</u>, and Alan Bovik* </i> (joint contribution) <br>
+   [<a href="../assets/pdf/Telepresence_QA.pdf">pdf</a>] [bib] <br>
+ </td>
+</tr>
+
+</table>
 <br>
+## Pre-prints
+
 ## Publications
 [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)| [2016](#2016) | [2015](#2015) | [2014](#2014)
 ### 2021
