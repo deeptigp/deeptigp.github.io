@@ -42,8 +42,7 @@ Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin
 
 - **Area Chair:** 
     - AAAI'22
-    - WiML@NeurIPS'21
-    - CVPR’21
+    - WiML@NeurIPS'21, CVPR’21
     - WiML’20
 
 - **Program Committee Member:** AAAI-20
@@ -55,7 +54,11 @@ Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin
    - J. of Selected Topics in Signal Proc. 2015 - 2019
    
 - **Conference Reviewer:** 
-    - CVPR 2023, ICVGIP 2023, CVPR 2022, NeurIPS 2022, ECCV 2022, ICVGIP 2022
-    - WiML 2022 AAAI 2022, ICVGIP 2021, WiML 2021, CVPR 2020, AAAI 2020, WiML 2020
-    - ICVGIP 2020, WiML 2019, ICVGIP 2019, ICVGIP 2018, ACM SIGGRAPH 2017,
-    - ICVGIP 2017, ICVGIP 2014
+    - CVPR 2023, ICVGIP 2023
+    - CVPR 2022, NeurIPS 2022, ECCV 2022, ICVGIP 2022, WiML 2022 AAAI 2022
+    - ICVGIP 2021, WiML 2021
+    - CVPR 2020, AAAI 2020, WiML 2020, ICVGIP 2020
+    - WiML 2019, ICVGIP 2019
+    - ICVGIP 2018
+    - ACM SIGGRAPH 2017, ICVGIP 2017
+    - ICVGIP 2014
