@@ -42,10 +42,10 @@ Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin
 - **Area Chair:** WiML’20, CVPR’21, WiML@NeurIPS'21, AAAI'22.
 - **Program Committee Member:** AAAI-20
 - **Journal Reviewer:** 
-- IEEE Trans. of Image Proc. 2013 - 2019, IEEE Trans. on Multimedia 2016 - 2019
-- Elec. Letters 2016 - 2019, IEEE Trans. on Circuits and Syst. for Video Tech. 2015 - 2019
-- Digital Signal Proc. 2015 - 2019, EURASIP J. on Image and Video Proc. 2015 - 2019
-- J. of Selected Topics in Signal Proc. 2015 - 2019
+-- IEEE Trans. of Image Proc. 2013 - 2019, IEEE Trans. on Multimedia 2016 - 2019
+-- Elec. Letters 2016 - 2019, IEEE Trans. on Circuits and Syst. for Video Tech. 2015 - 2019
+-- Digital Signal Proc. 2015 - 2019, EURASIP J. on Image and Video Proc. 2015 - 2019
+-- J. of Selected Topics in Signal Proc. 2015 - 2019
 - **Conference Reviewer:** 
 - CVPR 2023, ICVGIP 2023, CVPR 2022, NeurIPS 2022, ECCV 2022, ICVGIP 2022
 - WiML 2022 AAAI 2022, ICVGIP 2021, WiML 2021, CVPR 2020, AAAI 2020, WiML 2020
