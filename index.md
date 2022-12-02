@@ -12,7 +12,9 @@ I am a Senior Research Scientist at Fundamental AI Research (FAIR) in <a href="h
 Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Alan Bovik on perceptual image and video quality assessment for real-world content. 
 
 ## News
+- 
 - One of the main organizers of <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible CV </a> at ECCV'22.
+- 2 papers accepted at ECCV'22!
 - I am serving as a Program Chair for <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks"> NeurIPS'22 Datasets and Benchmarks track </a>
 - I am serving as an Area Chair for AAAI'22, WiML workshop @ NeurIPS'21
 - 1 paper accepted at ECCV'21!
