@@ -35,9 +35,9 @@ Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin
 ## Service
 - **Program Chair:** <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks">NeurIPS'22 Datasets and Benchmarks track </a>
 - **Workshop Organizer:** 
- - <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible Computer Vision (ECCV'22) </a>
- - <a href="https://xai4cv.github.io/workshop"> XAI4CV: Explainable Artificial Intelligence for Computer Vision (CVPR'22) </a>
- - <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision} (CVPR'21) </a>
+ -- <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible Computer Vision (ECCV'22) </a>
+ -- <a href="https://xai4cv.github.io/workshop"> XAI4CV: Explainable Artificial Intelligence for Computer Vision (CVPR'22) </a>
+ -- <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision} (CVPR'21) </a>
 
 - **Area Chair:** WiML’20, CVPR’21, WiML@NeurIPS'21, AAAI'22.
 - **Program Committee Member:** AAAI-20
