@@ -12,7 +12,6 @@ I am a Senior Research Scientist at Fundamental AI Research (FAIR) in <a href="h
 Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Alan Bovik on perceptual image and video quality assessment for real-world content. 
 
 ## News
-- 
 - One of the main organizers of <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible CV </a> at ECCV'22.
 - 2 papers accepted at ECCV'22!
 - I am serving as a Program Chair for <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks"> NeurIPS'22 Datasets and Benchmarks track </a>
@@ -34,12 +33,21 @@ Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin
 
 
 ## Service
+- **Program Chair:** <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks">NeurIPS'22 Datasets and Benchmarks track </a>
+- **Workshop Organizer:** 
+ - <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible Computer Vision (ECCV'22) </a>
+ - <a href="https://xai4cv.github.io/workshop"> XAI4CV: Explainable Artificial Intelligence for Computer Vision (CVPR'22) </a>
+ - <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision} (CVPR'21) </a>
+
 - **Area Chair:** WiML’20, CVPR’21, WiML@NeurIPS'21, AAAI'22.
 - **Program Committee Member:** AAAI-20
 - **Journal Reviewer:** 
-  - IEEE Trans. of Image Proc. 2013 - , IEEE Trans. on Multimedia 2016 - , Elec. Letters 2016 -
-  - IEEE Trans. on Circuits and Syst. for Video Tech. 2015 -, Digital Signal Proc. 2015 -
-  - EURASIP J. on Image and Video Proc. 2015 - , J. of Selected Topics in Signal Proc. 2015 -
+- IEEE Trans. of Image Proc. 2013 - 2019, IEEE Trans. on Multimedia 2016 - 2019
+- Elec. Letters 2016 - 2019, IEEE Trans. on Circuits and Syst. for Video Tech. 2015 - 2019
+- Digital Signal Proc. 2015 - 2019, EURASIP J. on Image and Video Proc. 2015 - 2019
+- J. of Selected Topics in Signal Proc. 2015 - 2019
 - **Conference Reviewer:** 
-  - AISTATS'22, WACV'21, CVPR 2020 -, AAAI 2020 -, WiML 2019 -, ACM SIGGRAPH 2017 -,
-  - Indian Conf. on Comp. Vision, Graphics and Image Process.(ICVGIP) 2014 - current
+- CVPR 2023, ICVGIP 2023, CVPR 2022, NeurIPS 2022, ECCV 2022, ICVGIP 2022
+- WiML 2022 AAAI 2022, ICVGIP 2021, WiML 2021, CVPR 2020, AAAI 2020, WiML 2020
+- ICVGIP 2020, WiML 2019, ICVGIP 2019, ICVGIP 2018, ACM SIGGRAPH 2017,
+- ICVGIP 2017, ICVGIP 2014
