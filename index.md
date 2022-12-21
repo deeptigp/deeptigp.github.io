@@ -31,7 +31,7 @@ Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin
 - 3 papers accepted to CVPR'19.
 
 
-## Service
+## Professional Service
 - **Program Chair:** 
     - <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks">NeurIPS'22 Datasets and Benchmarks track </a>
 - **Workshop Organizer:** 
