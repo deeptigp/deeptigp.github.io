@@ -12,7 +12,7 @@ title: Publications
 <td>
 <b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
  <i>  Maniratnam Mandal, <u> Deepti Ghadiyaram </u>, Danna Gurari, and Alan Bovik </i> <br>
-   [<a href="../assets/files/visually_challenged_iqa_cvpr22.pdf">pdf</a>] [bib] <br>
+   [<a href="../assets/files/visually_challenged_iqa_cvpr22.pdf">pdf</a>] <br>
  </td>
 </tr>
 
@@ -23,7 +23,7 @@ title: Publications
 <td>
 <b> Multimodal Quality Assessment of Telepresence Videos</b> <br>
  <i>  Zhenqiang Ying, <u> Deepti Ghadiyaram*</u>, and Alan Bovik* </i> (joint contribution) <br>
-   [<a href="../assets/files/Telepresence_QA.pdf">pdf</a>] [bib] <br>
+   [<a href="../assets/files/Telepresence_QA.pdf">pdf</a>] <br>
  </td>
 </tr>
 
@@ -32,9 +32,27 @@ title: Publications
 ## Pre-prints
 
 ## Publications
-[2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)| [2016](#2016) | [2015](#2015) | [2014](#2014)
+[2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)| [2016](#2016) | [2015](#2015) | [2014](#2014)
+### 2022
+<table border="0" rules=none cellspacing="0" cellpadding="0">
+ <tr rules=none>
+<td>
+ <img width="350" height="120" src="../assets/img/2021_iccv21_shotboundary.png">
+</td>
+<td>
+<b> Generic Event Boundary Detection: A Benchmark for Event Segmentation </b> <br>
+ <i> Mike Zheng Shou, Stan Weixian Lei, Weiyao Wang, <u> Deepti Ghadiyaram </u>, Matt Feiszli </i> <br>
+   ICCV 2021 <br>
+  [<a href="https://arxiv.org/abs/2101.10511">pdf</a>] [bib] <br>
+ </td>
+</tr>
+</table>
+
 ### 2021
 <table border="0" rules=none cellspacing="0" cellpadding="0">
+ 
+
+ 
  <tr rules=none>
 <td>
  <img width="350" height="120" src="../assets/img/2021_iccv21_shotboundary.png">
