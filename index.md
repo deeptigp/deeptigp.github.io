@@ -16,24 +16,19 @@ Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin
 
 ## News
 - Organizing XAI4CV workshop at #CVPR2023
+- Session chair of the featured papers panel at Neural and Information Processing Systems (NeurIPS)’22.
+- Led the panel discussion on topics pertaining to Responsible AI research and in practice at the workshop on Responsible CV at ECCV’22.
 - One of the main organizers of <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible CV </a> at ECCV'22.
 - 2 papers accepted at ECCV'22!
 - I am serving as a Program Chair for <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks"> NeurIPS'22 Datasets and Benchmarks track </a>
 - I am serving as an Area Chair for AAAI'22, WiML workshop @ NeurIPS'21
 - 1 paper accepted at ECCV'21!
-- I was the main organizer of a full-day workshop on <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision </a> at CVPR'21! 
+- I am the main organizer of a full-day workshop on <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision </a> at CVPR'21! 
 - 2 papers accepted at CVPR'21!
+- - [March 8th, 2021] Interviewed by IIIT-Hyderabad as part of Alumni Speak series on my journey from an undergraduate student to a successful researcher <a href="https://www.youtube.com/watch?v=aELF0h8fqfo"> link </a> 
 - 1 paper accepted in the Sign Language Recognition, Translation & Production (SLRTP) Workshop  ECCV'20.
 - 3 papers accepted to CVPR'20, 1 oral acceptance.
 - 3 papers accepted to CVPR'19.
-
-## External Talks 
-- I led the panel discussion on topics pertaining to Responsible AI research and in practice at the workshop on <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible CV </a> at ECCV'22.
-- 2 presentations at ECCV'22.
-- [March 8th, 2021] I was interviewed by IIIT-Hyderabad as part of Alumni Speak series on my journey from an undergraduate student to a successful researcher <a href="https://www.youtube.com/watch?v=aELF0h8fqfo"> link </a> 
-- 3 oral presentations at CVPR'20.
-- 6 oral presentations at CVPR'19.
-- 28th May, 2019: Gave a talk at F8, Facebook's annual developer's conference on <a href="https://www.youtube.com/watch?v=5RcC18WEruk"> large-scale video action recognition </a>
 
 
 ## Service
