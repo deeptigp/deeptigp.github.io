@@ -16,17 +16,6 @@ title: Publications
  </td>
 </tr>
 
-<tr rules=none>
-<td>
- <img width="350" height="120" src="../assets/img/2022_cvpr_telepresence.png">
-</td>
-<td>
-<b> Multimodal Quality Assessment of Telepresence Videos</b> <br>
- <i>  Zhenqiang Ying, <u> Deepti Ghadiyaram*</u>, and Alan Bovik* </i> (joint contribution) <br>
-   [<a href="../assets/files/Telepresence_QA.pdf">pdf</a>] <br>
- </td>
-</tr>
-
 </table>
 <br>
 ## Pre-prints
@@ -35,17 +24,29 @@ title: Publications
 [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)| [2016](#2016) | [2015](#2015) | [2014](#2014)
 ### 2022
 <table border="0" rules=none cellspacing="0" cellpadding="0">
- <tr rules=none>
+ 
+<tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/2021_iccv21_shotboundary.png">
+ <img width="350" height="120" src="../assets/img/2022_cvpr_telepresence.png">
 </td>
 <td>
-<b> Generic Event Boundary Detection: A Benchmark for Event Segmentation </b> <br>
- <i> Mike Zheng Shou, Stan Weixian Lei, Weiyao Wang, <u> Deepti Ghadiyaram </u>, Matt Feiszli </i> <br>
-   ICCV 2021 <br>
-  [<a href="https://arxiv.org/abs/2101.10511">pdf</a>]  <br>
+<b> Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals</b> <br>
+ <i> Simon Vandenhende, Dhruv Mahajan, Filip Radenovic, and <u> Deepti Ghadiyaram</u> </i> <br>
+   [<a href="https://arxiv.org/pdf/2203.12892.pdf">pdf</a>] <br>
  </td>
 </tr>
+
+<tr rules=none>
+<td>
+ <img width="350" height="120" src="../assets/img/2022_cvpr_telepresence.png">
+</td>
+<td>
+<b>Telepresence Video Quality Assessment</b> <br>
+ <i>  Zhenqiang Ying, <u> Deepti Ghadiyaram*</u>, and Alan Bovik* </i> (joint contribution) <br>
+   [<a href="https://arxiv.org/pdf/2207.09956.pdf">pdf</a>] <br>
+ </td>
+</tr>
+ 
 </table>
 
 ### 2021
