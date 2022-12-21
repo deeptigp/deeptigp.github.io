@@ -1,4 +1,3 @@
-## Invited and Conference Talks
 - **Future of Computer Vision Datasets**, Invited speaker at CVPR 2021.
 - **Learning Generalized Visual Representations at Facebook**, Invited talk at NeurIPS, Dec. 2020.
 - **Don't Judge an Object by its Context: Learning to Overcome Contextual Bias**, Oral Presentation at CVPR, June 2020.
