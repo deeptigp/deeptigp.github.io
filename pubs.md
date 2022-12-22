@@ -27,7 +27,7 @@ title: Publications
  
 <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/eccv2022_counterfactuals.png">
+ <img width="420" height="120" src="../assets/img/eccv2022_counterfactuals.png">
 </td>
 <td>
 <b> Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals</b> <br>
@@ -38,7 +38,7 @@ title: Publications
 
 <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/2022_cvpr_telepresence.png">
+ <img width="420" height="120" src="../assets/img/2022_cvpr_telepresence.png">
 </td>
 <td>
 <b>Telepresence Video Quality Assessment</b> <br>
