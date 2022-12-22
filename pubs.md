@@ -7,7 +7,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/IQA_visually_challenged.jpeg">
+ <img width="400" height="120" src="../assets/img/IQA_visually_challenged.jpeg">
 </td>
 <td>
 <b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
@@ -27,7 +27,7 @@ title: Publications
  
 <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/eccv2022_counterfactuals.png">
+ <img width="400" height="120" src="../assets/img/eccv2022_counterfactuals.png">
 </td>
 <td>
 <b> Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals</b> <br>
@@ -38,7 +38,7 @@ title: Publications
 
 <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/2022_cvpr_telepresence.png">
+ <img width="400" height="120" src="../assets/img/2022_telepresence.png">
 </td>
 <td>
 <b>Telepresence Video Quality Assessment</b> <br>
@@ -53,7 +53,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/2021_iccv21_shotboundary.png">
+ <img width="400" height="120" src="../assets/img/2021_iccv21_shotboundary.png">
 </td>
 <td>
 <b> Generic Event Boundary Detection: A Benchmark for Event Segmentation </b> <br>
@@ -65,7 +65,7 @@ title: Publications
 
  <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/2021_cvpr21_patchvq.png">
+ <img width="400" height="120" src="../assets/img/2021_cvpr21_patchvq.png">
 </td>
 <td>
 <b> Patch-VQ: 'Patching Up' the Video Quality Problem </b> <br>
@@ -78,7 +78,7 @@ title: Publications
  
  <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/eccv20_slrtp.png">
+ <img width="400" height="120" src="../assets/img/eccv20_slrtp.png">
 </td>
 <td>
 <b> How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language </b> <br>
