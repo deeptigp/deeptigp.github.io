@@ -7,7 +7,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
- <img width="350" height="240" src="../assets/img/2022_cvpr_vqa.png">
+ <img width="450" height="120" src="../assets/img/IQA_visually_challenged.jpeg">
 </td>
 <td>
 <b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
