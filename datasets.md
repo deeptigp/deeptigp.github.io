@@ -2,6 +2,8 @@
 layout: page
 title: Datasets and Code
 ---
+- **LIVE-FB Large-Scale Social Video Quality (LSVQ) Database [2021]**
+  * Download a large-scale database containing variable quality social videos, cropped v-patches, and their subjective evaluations [<a href="https://github.com/baidut/PatchVQ">link</a>]
 
 - **LIVE-FB Large-Scale Social Picture Quality Database [2020]**
   * Download a large-scale database containing variable quality social pictures and their subjective evaluations [<a href="https://github.com/niu-haoran/FLIVE_Database/blob/master/database_prep.ipynb">link</a>]
