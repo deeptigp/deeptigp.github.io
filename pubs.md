@@ -340,7 +340,7 @@ title: Publications
 
  <tr rules=none>
 <td>
-<img width="400" height="120" src="../assets/img/2017_friquee.png>
+<img width="400" height="120" src="../assets/img/2017_friquee.png">
 </td>
 <td>
  <b>Feature Maps Driven No-Reference Image Quality Prediction of Naturally Distorted Images</b> <br>
