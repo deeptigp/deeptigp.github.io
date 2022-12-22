@@ -406,7 +406,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/">
+<img width="300" height="120" src="../assets/img/2017_friquee.png">
 </td>
 <td>
  <b>Blind Image Quality Assessment on Real Distorted Images using Deep Belief Nets</b> <br>
