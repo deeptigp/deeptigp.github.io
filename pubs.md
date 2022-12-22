@@ -300,7 +300,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="../assets/img/">
 </td>
 <td>
  <b>Massive Online Crowdsourced Study of Subjective and Objective Picture Quality</b> <br>
@@ -312,7 +312,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="../assets/img/">
 </td>
 <td>
  <b>No-reference Image Quality Assessment for High Dynamic Range Images</b> <br>
@@ -330,7 +330,7 @@ title: Publications
  
  <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="../assets/img/">
 </td>
 <td>
  <b>A time-varying subjective quality model for mobile streaming videos with stalling events</b> <br>
@@ -343,7 +343,7 @@ title: Publications
 
  <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="../assets/img/>
 </td>
 <td>
  <b>Feature Maps Driven No-Reference Image Quality Prediction of Naturally Distorted Images</b> <br>
@@ -355,7 +355,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="../assets/img/">
 </td>
 <td>
  <b>Scene Statistics of Authentically Distorted Images in Perceptually Relevant Color Spaces for Blind Image Quality Assessment</b> <br>
@@ -372,7 +372,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="../assets/img/">
 </td>
 <td>
  <b>Online Crowdsourcing of Subjective Quality Assessment of Images</b> <br>
@@ -384,7 +384,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="../assets/img/">
 </td>
 <td>
  <b>Delivery quality score model for internet video</b> <br>
@@ -396,32 +396,32 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="../assets/img/">
 </td>
 <td>
  <b>Crowdsourcing Study of Subjective Image Quality</b> <br>
  <i> <u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
  Asilomar Conf. Signals, Systems, and Computers, Nov. 2014 <br> 
- [<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.661.900&rep=rep1&type=pdf">pdf</a>]  <br>
+ [<a href="https://live.ece.utexas.edu/publications/2014/crowdSourceStudy_asilomar.pdf">pdf</a>]  <br>
  </td>
 </tr>
 
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="../assets/img/">
 </td>
 <td>
  <b>Blind Image Quality Assessment on Real Distorted Images using Deep Belief Nets</b> <br>
  <i> <u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
  Global SIP, Dec. 2014 <br> 
- [<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.661.900&rep=rep1&type=pdf">pdf</a>]  <br>
+ [<a href="https://ieeexplore.ieee.org/abstract/document/7032260">pdf</a>]  <br>
  </td>
 </tr>
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="globalsip2014_stalls">
 </td>
 <td>
  <b>Study of the effects of stalling events on the Quality of Experience of mobile streaming videos</b> <br>
