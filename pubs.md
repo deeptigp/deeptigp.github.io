@@ -32,7 +32,9 @@ title: Publications
 <td>
 <b> Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals</b> <br>
  <i> Simon Vandenhende, Dhruv Mahajan, Filip Radenovic, and <u> Deepti Ghadiyaram</u> </i> <br>
-   [<a href="https://arxiv.org/pdf/2203.12892.pdf">pdf</a>] <br>
+   [<a href="https://arxiv.org/pdf/2203.12892.pdf">pdf</a>] 
+   [<a href="https://github.com/facebookresearch/visual-counterfactuals/ ">code</a>]
+ <br>
  </td>
 </tr>
 
@@ -72,7 +74,8 @@ title: Publications
  <i> Zhenqiang Ying, Maniratnam Mandal, <u>Deepti Ghadiyaram*</u>, Alan Bovik* </i> <br>
   [*] indicates equal contribution
    CVPR 2021 <br>
-  [<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Ying_Patch-VQ_Patching_Up_the_Video_Quality_Problem_CVPR_2021_paper.html"> pdf</a>]  <br>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Ying_Patch-VQ_Patching_Up_the_Video_Quality_Problem_CVPR_2021_paper.html"> pdf</a>]  
+   [<a href="https://github.com/baidut/PatchVQ"> Code </a> <br>
  </td>
 </tr> 
  
@@ -112,7 +115,8 @@ title: Publications
   <i> Zhenheng Ying<sup>+</sup>, Haoran Niu<sup>+</sup>, Praful Gupta, Dhruv Mahajan, <u>Deepti Ghadiyaram</u><sup>+</sup>, and Alan Bovik<sup>+</sup> </i> <br>
   <sup>+</sup> <i> indicates equal contribution </i> <br>
     CVPR 2020 <br>
-  [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Ying_From_Patches_to_Pictures_PaQ-2-PiQ_Mapping_the_Perceptual_Space_of_CVPR_2020_paper.pdf">pdf</a>]  [<a href="https://baidut.github.io/PaQ-2-PiQ/">project page</a>] <br>
+  [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Ying_From_Patches_to_Pictures_PaQ-2-PiQ_Mapping_the_Perceptual_Space_of_CVPR_2020_paper.pdf">pdf</a>]  
+ [<a href="https://baidut.github.io/PaQ-2-PiQ/">project page</a>] <br>
  </td>
 </tr>
 
@@ -262,7 +266,9 @@ title: Publications
  <b>No-Reference Quality Assessment of High Dynamic Range Pictures</b> <br>
  <i> Debarati Kundu, <u>Deepti Ghadiyaram</u>, Alan C. Bovik, and Brian Evans </i> <br>
  IEEE Transactions of Image Processing, March. 2017 <br> 
- [<a href="https://ieeexplore.ieee.org/abstract/document/7885070">pdf</a>]  <br>
+ [<a href="https://ieeexplore.ieee.org/abstract/document/7885070">pdf</a>]  
+  [<a href="https://github.com/utlive/HIGRADE" code </a>]
+ <br>
  </td>
 </tr>
 
@@ -286,7 +292,9 @@ title: Publications
  <b>Perceptual Quality Prediction on Authentically Distorted Images Using a Bag of Features Approach</b> <br>
  <i><u>Deepti Ghadiyaram</u> and Alan C. Bovik </i> <br>
  Journal of Vision, Jan 2017 <br>
-  [<a href="https://jov.arvojournals.org/article.aspx?articleid=2599945">pdf</a>]  <br>
+  [<a href="https://jov.arvojournals.org/article.aspx?articleid=2599945">pdf</a>] 
+ [<a href="https://github.com/utlive/friquee code </a>]
+ <br>
  </td>
 </tr>
 </table>
@@ -315,7 +323,9 @@ title: Publications
  <b>No-reference Image Quality Assessment for High Dynamic Range Images</b> <br>
  <i> Debarati Kundu, <u>Deepti Ghadiyaram</u>, Alan C. Bovik, and Brian Evans </i> <br>
  Asilomar Conference on Signals, Systems, May. 2016 <br> 
- [<a href="http://users.ece.utexas.edu/~bevans/papers/2016/noRefHDR/noRefHDRImageQualityEvalAsilomar2016PaperDraft.pdf">pdf</a>]  <br>
+ [<a href="http://users.ece.utexas.edu/~bevans/papers/2016/noRefHDR/noRefHDRImageQualityEvalAsilomar2016PaperDraft.pdf">pdf</a>]  
+  [<a href="https://github.com/utlive/HIGRADE" code </a>]
+  <br>
  </td>
 </tr>
 
