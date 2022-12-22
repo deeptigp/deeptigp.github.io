@@ -12,7 +12,7 @@ navbar-links:
   CV: "/assets/files/CV_Ghadiyaram.pdf"
   Publications: "/pubs"
   Invited Talks: "/invited_talks"
-  Data and Code: "/datasets"
+  Datasets: "/datasets"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
