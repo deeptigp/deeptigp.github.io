@@ -32,6 +32,7 @@ title: Publications
 <td>
 <b> Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals</b> <br>
  <i> Simon Vandenhende, Dhruv Mahajan, Filip Radenovic, and <u> Deepti Ghadiyaram</u> </i> <br>
+  ECCV 2022 <br>
    [<a href="https://arxiv.org/pdf/2203.12892.pdf">pdf</a>] 
    [<a href="https://github.com/facebookresearch/visual-counterfactuals/ ">code</a>]
  <br>
@@ -44,7 +45,8 @@ title: Publications
 </td>
 <td>
 <b>Telepresence Video Quality Assessment</b> <br>
- <i>  Zhenqiang Ying, <u> Deepti Ghadiyaram*</u>, and Alan Bovik* </i> (joint contribution) <br>
+ <i>  Zhenqiang Ying, <u> Deepti Ghadiyaram*</u>, and Alan Bovik* </i> (equal contribution) <br>
+   ECCV 2022 <br>
    [<a href="https://arxiv.org/pdf/2207.09956.pdf">pdf</a>] <br>
  </td>
 </tr>
@@ -72,7 +74,7 @@ title: Publications
 <td>
 <b> Patch-VQ: 'Patching Up' the Video Quality Problem </b> <br>
  <i> Zhenqiang Ying, Maniratnam Mandal, <u>Deepti Ghadiyaram*</u>, Alan Bovik* </i> <br>
-  [*] indicates equal contribution
+  (* equal contribution) <br>
    CVPR 2021 <br>
   [<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Ying_Patch-VQ_Patching_Up_the_Video_Quality_Problem_CVPR_2021_paper.html"> pdf</a>]  
    [<a href="https://github.com/baidut/PatchVQ"> Code </a> <br>
@@ -113,7 +115,7 @@ title: Publications
 <td>
   <b> From patches to pictures (PaQ-2-PiQ): Mapping the perceptual space of picture quality </b> <br>
   <i> Zhenheng Ying<sup>+</sup>, Haoran Niu<sup>+</sup>, Praful Gupta, Dhruv Mahajan, <u>Deepti Ghadiyaram</u><sup>+</sup>, and Alan Bovik<sup>+</sup> </i> <br>
-  <sup>+</sup> <i> indicates equal contribution </i> <br>
+  <sup>+</sup> <i> equal contribution </i> <br>
     CVPR 2020 <br>
   [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Ying_From_Patches_to_Pictures_PaQ-2-PiQ_Mapping_the_Perceptual_Space_of_CVPR_2020_paper.pdf">pdf</a>]  
  [<a href="https://baidut.github.io/PaQ-2-PiQ/">project page</a>] <br>
@@ -126,7 +128,7 @@ title: Publications
 <td>
 <b>ClusterFit: Improving Generalization of Visual Representations </b> <br>
   <i> Xueting Yan<sup>+</sup>, Ishan Misra<sup>+</sup>, Abhinav Gupta, <u>Deepti Ghadiyaram</u><sup>+</sup>, and Dhruv Mahajan<sup>+</sup> </i> <br>
-  <sup>+</sup> <i> indicates equal contribution </i> <br>
+  <sup>+</sup> <i> equal contribution </i> <br>
   CVPR 2020 <br>
  [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_ClusterFit_Improving_Generalization_of_Visual_Representations_CVPR_2020_paper.pdf">pdf</a>]  <br>
  </td>
