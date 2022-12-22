@@ -208,7 +208,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="400" height="120" src="../assets/img/2017_incapture.png">
+<img width="400" height="120" src="../assets/img/2017_stall_database.png">
 </td>
 <td>
  <b>A Subjective and Objective Study of Stalling Events in Mobile Streaming Videos</b> <br>
@@ -244,7 +244,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="400" height="120" src="../assets/img/incapture.png">
+<img width="400" height="120" src="../assets/img/2017_incapture.png">
 </td>
 <td>
  <b>In-capture Mobile Video Distortions: A Study of Subjective Behavior and Objective Algorithms</b> <br>
@@ -297,7 +297,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="400" height="120" src="../assets/img/clive.jpeg">
+<img width="400" height="120" src="../assets/img/crowdsourcing.png">
 </td>
 <td>
  <b>Massive Online Crowdsourced Study of Subjective and Objective Picture Quality</b> <br>
@@ -352,7 +352,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/">
+<img width="300" height="120" src="../assets/img/2017_friquee.png">
 </td>
 <td>
  <b>Scene Statistics of Authentically Distorted Images in Perceptually Relevant Color Spaces for Blind Image Quality Assessment</b> <br>
@@ -369,7 +369,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/">
+<img width="300" height="120" src="../assets/img/clive.jpeg">
 </td>
 <td>
  <b>Online Crowdsourcing of Subjective Quality Assessment of Images</b> <br>
@@ -381,7 +381,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/">
+<img width="300" height="120" src="../assets/img/globalsip2014_stalls.png">
 </td>
 <td>
  <b>Delivery quality score model for internet video</b> <br>
@@ -393,7 +393,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/">
+<img width="300" height="120" src="../assets/img/crowdsourcing.png">
 </td>
 <td>
  <b>Crowdsourcing Study of Subjective Image Quality</b> <br>
@@ -418,7 +418,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="globalsip2014_stalls">
+<img width="300" height="120" src="../assets/img/globalsip2014_stalls.png">
 </td>
 <td>
  <b>Study of the effects of stalling events on the Quality of Experience of mobile streaming videos</b> <br>
