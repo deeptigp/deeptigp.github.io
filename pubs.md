@@ -269,7 +269,7 @@ title: Publications
  <i> Debarati Kundu, <u>Deepti Ghadiyaram</u>, Alan C. Bovik, and Brian Evans </i> <br>
  IEEE Transactions of Image Processing, March. 2017 <br> 
  [<a href="https://ieeexplore.ieee.org/abstract/document/7885070">pdf</a>]  
-  [<a href="https://github.com/utlive/HIGRADE" code </a>]
+  [<a href="https://github.com/utlive/HIGRADE"> code </a>]
  <br>
  </td>
 </tr>
