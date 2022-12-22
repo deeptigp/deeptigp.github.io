@@ -300,7 +300,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/">
+<img width="300" height="120" src="../assets/img/clive.jpeg">
 </td>
 <td>
  <b>Massive Online Crowdsourced Study of Subjective and Objective Picture Quality</b> <br>
@@ -312,7 +312,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/">
+<img width="300" height="120" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>No-reference Image Quality Assessment for High Dynamic Range Images</b> <br>
@@ -330,7 +330,7 @@ title: Publications
  
  <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/">
+<img width="300" height="120" src="../assets/img/2018_qoe.png">
 </td>
 <td>
  <b>A time-varying subjective quality model for mobile streaming videos with stalling events</b> <br>
@@ -343,7 +343,7 @@ title: Publications
 
  <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/>
+<img width="300" height="120" src="../assets/img/2017_friquee.png>
 </td>
 <td>
  <b>Feature Maps Driven No-Reference Image Quality Prediction of Naturally Distorted Images</b> <br>
