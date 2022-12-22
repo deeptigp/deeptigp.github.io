@@ -7,12 +7,12 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
- <img width="350" height="120" src="../assets/img/2022_cvpr_vqa.png">
+ <img width="350" height="240" src="../assets/img/2022_cvpr_vqa.png">
 </td>
 <td>
 <b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
  <i>  Maniratnam Mandal, <u> Deepti Ghadiyaram </u>, Danna Gurari, and Alan Bovik </i> <br>
-   [<a href="../assets/files/visually_challenged_iqa_cvpr22.pdf">pdf</a>] _(under review)_ <br>
+ [<a href="../assets/files/visually_challenged_iqa_cvpr22.pdf">pdf</a>] <i>(under review) </i> <br>
  </td>
 </tr>
 
@@ -51,9 +51,6 @@ title: Publications
 
 ### 2021
 <table border="0" rules=none cellspacing="0" cellpadding="0">
- 
-
- 
  <tr rules=none>
 <td>
  <img width="350" height="120" src="../assets/img/2021_iccv21_shotboundary.png">
