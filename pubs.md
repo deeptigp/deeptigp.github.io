@@ -196,7 +196,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2017_deep.png">
+<img width="250" height="120" src="../assets/img/2017_deep.png">
 </td>
 <td>
  <b>Deep Convolutional Neural Models for Picture Quality Prediction</b> <br>
@@ -208,7 +208,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2017_incapture.png">
+<img width="250" height="120" src="../assets/img/2017_incapture.png">
 </td>
 <td>
  <b>A Subjective and Objective Study of Stalling Events in Mobile Streaming Videos</b> <br>
@@ -220,7 +220,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2017_hdr.png">
+<img width="250" height="120" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>Large-scale Crowdsourced Study for tone-mapped HDR pictures</b> <br>
@@ -232,7 +232,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2017_sleeq.png">
+<img width="250" height="120" src="../assets/img/2017_sleeq.png">
 </td>
 <td>
  <b>A No-Reference Video Quality Predictor for Compression and Scaling Artifacts</b> <br>
@@ -244,7 +244,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/incapture.png">
+<img width="250" height="120" src="../assets/img/incapture.png">
 </td>
 <td>
  <b>In-capture Mobile Video Distortions: A Study of Subjective Behavior and Objective Algorithms</b> <br>
@@ -256,7 +256,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2017_hdr.png">
+<img width="250" height="120" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>No-Reference Quality Assessment of High Dynamic Range Pictures</b> <br>
@@ -268,7 +268,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2017_incapture.png">
+<img width="250" height="120" src="../assets/img/2017_incapture.png">
 </td>
 <td>
  <b>Subjective and Objective Quality Assessment of Mobile Videos with In-Capture Distortions</b> <br>
@@ -280,7 +280,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2017_friquee.png">
+<img width="250" height="120" src="../assets/img/2017_friquee.png">
 </td>
 <td>
  <b>Perceptual Quality Prediction on Authentically Distorted Images Using a Bag of Features Approach</b> <br>
