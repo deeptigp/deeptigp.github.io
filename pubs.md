@@ -53,7 +53,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
- <img width="450" height="120" src="../assets/img/2021_iccv21_shotboundary.png">
+ <img width="400" height="120" src="../assets/img/2021_iccv21_shotboundary.png">
 </td>
 <td>
 <b> Generic Event Boundary Detection: A Benchmark for Event Segmentation </b> <br>
@@ -65,7 +65,7 @@ title: Publications
 
  <tr rules=none>
 <td>
- <img width="450" height="120" src="../assets/img/2021_cvpr21_patchvq.png">
+ <img width="400" height="120" src="../assets/img/2021_cvpr21_patchvq.png">
 </td>
 <td>
 <b> Patch-VQ: 'Patching Up' the Video Quality Problem </b> <br>
@@ -78,7 +78,7 @@ title: Publications
  
  <tr rules=none>
 <td>
- <img width="450" height="120" src="../assets/img/eccv20_slrtp.png">
+ <img width="400" height="120" src="../assets/img/eccv20_slrtp.png">
 </td>
 <td>
 <b> How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language </b> <br>
@@ -148,7 +148,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/cvpr19_segmentation.png">
+<img width="400" height="120" src="../assets/img/cvpr19_segmentation.png">
 </td>
 <td>
   <b> Activity driven weakly supervised object detection </b> <br>
@@ -160,7 +160,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/cvpr19_lessismore.png">
+<img width="400" height="120" src="../assets/img/cvpr19_lessismore.png">
 </td>
 <td>
 <b> Less is more: Learning highlight detection from video duration </b> <br>
@@ -178,7 +178,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2018_qoe.png">
+<img width="400" height="120" src="../assets/img/2018_qoe.png">
 </td>
 <td>
  <b>Learning a Continuous-Time Streaming Video QoE Model</b> <br>
@@ -196,7 +196,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
-<img width="250" height="120" src="../assets/img/2017_deep.png">
+<img width="400" height="120" src="../assets/img/2017_deep.png">
 </td>
 <td>
  <b>Deep Convolutional Neural Models for Picture Quality Prediction</b> <br>
@@ -208,7 +208,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="250" height="120" src="../assets/img/2017_incapture.png">
+<img width="400" height="120" src="../assets/img/2017_incapture.png">
 </td>
 <td>
  <b>A Subjective and Objective Study of Stalling Events in Mobile Streaming Videos</b> <br>
@@ -220,7 +220,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="250" height="120" src="../assets/img/2017_hdr.png">
+<img width="400" height="120" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>Large-scale Crowdsourced Study for tone-mapped HDR pictures</b> <br>
@@ -232,7 +232,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="250" height="120" src="../assets/img/2017_sleeq.png">
+<img width="400" height="120" src="../assets/img/2017_sleeq.png">
 </td>
 <td>
  <b>A No-Reference Video Quality Predictor for Compression and Scaling Artifacts</b> <br>
@@ -244,7 +244,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="250" height="120" src="../assets/img/incapture.png">
+<img width="400" height="120" src="../assets/img/incapture.png">
 </td>
 <td>
  <b>In-capture Mobile Video Distortions: A Study of Subjective Behavior and Objective Algorithms</b> <br>
@@ -256,7 +256,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="250" height="120" src="../assets/img/2017_hdr.png">
+<img width="400" height="120" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>No-Reference Quality Assessment of High Dynamic Range Pictures</b> <br>
@@ -268,7 +268,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="250" height="120" src="../assets/img/2017_incapture.png">
+<img width="400" height="120" src="../assets/img/2017_incapture.png">
 </td>
 <td>
  <b>Subjective and Objective Quality Assessment of Mobile Videos with In-Capture Distortions</b> <br>
@@ -280,7 +280,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="250" height="120" src="../assets/img/2017_friquee.png">
+<img width="400" height="120" src="../assets/img/2017_friquee.png">
 </td>
 <td>
  <b>Perceptual Quality Prediction on Authentically Distorted Images Using a Bag of Features Approach</b> <br>
@@ -297,7 +297,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/clive.jpeg">
+<img width="400" height="120" src="../assets/img/clive.jpeg">
 </td>
 <td>
  <b>Massive Online Crowdsourced Study of Subjective and Objective Picture Quality</b> <br>
@@ -309,7 +309,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2017_hdr.png">
+<img width="400" height="120" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>No-reference Image Quality Assessment for High Dynamic Range Images</b> <br>
@@ -327,7 +327,7 @@ title: Publications
  
  <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2018_qoe.png">
+<img width="400" height="120" src="../assets/img/2018_qoe.png">
 </td>
 <td>
  <b>A time-varying subjective quality model for mobile streaming videos with stalling events</b> <br>
@@ -340,7 +340,7 @@ title: Publications
 
  <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2017_friquee.png>
+<img width="400" height="120" src="../assets/img/2017_friquee.png>
 </td>
 <td>
  <b>Feature Maps Driven No-Reference Image Quality Prediction of Naturally Distorted Images</b> <br>
