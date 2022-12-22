@@ -7,7 +7,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
- <img width="400" height="100" src="../assets/img/IQA_visually_challenged.jpeg">
+ <img width="300" height="100" src="../assets/img/IQA_visually_challenged.jpeg">
 </td>
 <td>
 <b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
@@ -27,7 +27,7 @@ title: Publications
  
 <tr rules=none>
 <td>
- <img width="400" height="120" src="../assets/img/eccv2022_counterfactuals.png">
+ <img width="300" height="120" src="../assets/img/eccv2022_counterfactuals.png">
 </td>
 <td>
 <b> Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals</b> <br>
@@ -41,7 +41,7 @@ title: Publications
 
 <tr rules=none>
 <td>
- <img width="400" height="120" src="../assets/img/2022_telepresence.png">
+ <img width="300" height="120" src="../assets/img/2022_telepresence.png">
 </td>
 <td>
 <b>Telepresence Video Quality Assessment</b> <br>
@@ -184,7 +184,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
-<img width="200" height="100" src="../assets/img/2018_qoe.png">
+<img width="250" height="100" src="../assets/img/2018_qoe.png">
 </td>
 <td>
  <b>Learning a Continuous-Time Streaming Video QoE Model</b> <br>
@@ -307,7 +307,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="400" height="100" src="../assets/img/crowdsourcing.png">
+<img width="350" height="100" src="../assets/img/crowdsourcing.png">
 </td>
 <td>
  <b>Massive Online Crowdsourced Study of Subjective and Objective Picture Quality</b> <br>
@@ -319,7 +319,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="400" height="100" src="../assets/img/2017_hdr.png">
+<img width="350" height="100" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>No-reference Image Quality Assessment for High Dynamic Range Images</b> <br>
