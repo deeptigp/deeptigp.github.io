@@ -184,7 +184,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
-<img width="300" height="120" src="../assets/img/2018_qoe.png">
+<img width="200" height="100" src="../assets/img/2018_qoe.png">
 </td>
 <td>
  <b>Learning a Continuous-Time Streaming Video QoE Model</b> <br>
