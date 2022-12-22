@@ -184,7 +184,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
-<img width="250" height="100" src="../assets/img/2018_qoe.png">
+<img width="200" height="100" src="../assets/img/2018_qoe.png">
 </td>
 <td>
  <b>Learning a Continuous-Time Streaming Video QoE Model</b> <br>
@@ -307,7 +307,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="350" height="100" src="../assets/img/crowdsourcing.png">
+<img width="300" height="100" src="../assets/img/crowdsourcing.png">
 </td>
 <td>
  <b>Massive Online Crowdsourced Study of Subjective and Objective Picture Quality</b> <br>
@@ -319,7 +319,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="350" height="100" src="../assets/img/2017_hdr.png">
+<img width="300" height="100" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>No-reference Image Quality Assessment for High Dynamic Range Images</b> <br>
@@ -381,7 +381,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="400" height="120" src="../assets/img/clive.jpeg">
+<img width="350" height="120" src="../assets/img/clive.jpeg">
 </td>
 <td>
  <b>Online Crowdsourcing of Subjective Quality Assessment of Images</b> <br>
@@ -393,7 +393,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="400" height="120" src="../assets/img/globalsip2014_stalls.png">
+<img width="350" height="120" src="../assets/img/globalsip2014_stalls.png">
 </td>
 <td>
  <b>Delivery quality score model for internet video</b> <br>
@@ -405,7 +405,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="400" height="120" src="../assets/img/crowdsourcing.png">
+<img width="350" height="120" src="../assets/img/crowdsourcing.png">
 </td>
 <td>
  <b>Crowdsourcing Study of Subjective Image Quality</b> <br>
@@ -418,7 +418,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="400" height="120" src="../assets/img/2017_friquee.png">
+<img width="350" height="120" src="../assets/img/2017_friquee.png">
 </td>
 <td>
  <b>Blind Image Quality Assessment on Real Distorted Images using Deep Belief Nets</b> <br>
@@ -430,7 +430,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="400" height="120" src="../assets/img/globalsip2014_stalls.png">
+<img width="350" height="120" src="../assets/img/globalsip2014_stalls.png">
 </td>
 <td>
  <b>Study of the effects of stalling events on the Quality of Experience of mobile streaming videos</b> <br>
