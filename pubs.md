@@ -181,7 +181,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
-<img width="100" height="100" src="../assets/img/2018_qoe.png">
+<img width="300" height="120" src="../assets/img/2018_qoe.png">
 </td>
 <td>
  <b>Learning a Continuous-Time Streaming Video QoE Model</b> <br>
@@ -199,7 +199,7 @@ title: Publications
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 <tr rules=none>
 <td>
-<img width="100" height="100" src="../assets/img/2017_deep.png">
+<img width="300" height="120" src="../assets/img/2017_deep.png">
 </td>
 <td>
  <b>Deep Convolutional Neural Models for Picture Quality Prediction</b> <br>
@@ -211,7 +211,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="../assets/img/2017_incapture.png">
+<img width="300" height="120" src="../assets/img/2017_incapture.png">
 </td>
 <td>
  <b>A Subjective and Objective Study of Stalling Events in Mobile Streaming Videos</b> <br>
@@ -223,7 +223,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="../assets/img/2017_hdr.png">
+<img width="300" height="120" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>Large-scale Crowdsourced Study for tone-mapped HDR pictures</b> <br>
@@ -235,7 +235,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="../assets/img/2017_sleeq.png">
+<img width="300" height="120" src="../assets/img/2017_sleeq.png">
 </td>
 <td>
  <b>A No-Reference Video Quality Predictor for Compression and Scaling Artifacts</b> <br>
@@ -247,7 +247,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="../assets/img/incapture.png">
+<img width="300" height="120" src="../assets/img/incapture.png">
 </td>
 <td>
  <b>In-capture Mobile Video Distortions: A Study of Subjective Behavior and Objective Algorithms</b> <br>
@@ -259,7 +259,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="../assets/img/2017_hdr.png">
+<img width="300" height="120" src="../assets/img/2017_hdr.png">
 </td>
 <td>
  <b>No-Reference Quality Assessment of High Dynamic Range Pictures</b> <br>
@@ -271,7 +271,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="../assets/img/2017_incapture.png">
+<img width="300" height="120" src="../assets/img/2017_incapture.png">
 </td>
 <td>
  <b>Subjective and Objective Quality Assessment of Mobile Videos with In-Capture Distortions</b> <br>
@@ -283,7 +283,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="../assets/img/2017_friquee.png">
+<img width="300" height="120" src="../assets/img/2017_friquee.png">
 </td>
 <td>
  <b>Perceptual Quality Prediction on Authentically Distorted Images Using a Bag of Features Approach</b> <br>
@@ -300,7 +300,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>Massive Online Crowdsourced Study of Subjective and Objective Picture Quality</b> <br>
@@ -312,7 +312,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>No-reference Image Quality Assessment for High Dynamic Range Images</b> <br>
@@ -330,7 +330,7 @@ title: Publications
  
  <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>A time-varying subjective quality model for mobile streaming videos with stalling events</b> <br>
@@ -343,7 +343,7 @@ title: Publications
 
  <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>Feature Maps Driven No-Reference Image Quality Prediction of Naturally Distorted Images</b> <br>
@@ -355,7 +355,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>Scene Statistics of Authentically Distorted Images in Perceptually Relevant Color Spaces for Blind Image Quality Assessment</b> <br>
@@ -372,7 +372,7 @@ title: Publications
 <table>
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>Online Crowdsourcing of Subjective Quality Assessment of Images</b> <br>
@@ -384,7 +384,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>Delivery quality score model for internet video</b> <br>
@@ -396,7 +396,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>Crowdsourcing Study of Subjective Image Quality</b> <br>
@@ -409,7 +409,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>Blind Image Quality Assessment on Real Distorted Images using Deep Belief Nets</b> <br>
@@ -421,7 +421,7 @@ title: Publications
 
 <tr rules=none>
 <td>
-<img width="100" height="100" src="http://www.fillmurray.com/460/300">
+<img width="300" height="120" src="http://www.fillmurray.com/460/300">
 </td>
 <td>
  <b>Study of the effects of stalling events on the Quality of Experience of mobile streaming videos</b> <br>
