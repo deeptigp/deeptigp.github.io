@@ -77,7 +77,7 @@ title: Publications
   (* equal contribution) <br>
    CVPR 2021 <br>
   [<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Ying_Patch-VQ_Patching_Up_the_Video_Quality_Problem_CVPR_2021_paper.html"> pdf</a>]  
-   [<a href="https://github.com/baidut/PatchVQ"> Code </a> <br>
+   [<a href="https://github.com/baidut/PatchVQ"> Code </a>] <br>
  </td>
 </tr> 
  
