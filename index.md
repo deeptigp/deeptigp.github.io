@@ -16,7 +16,7 @@ Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017
 
 ## News
 - I am an Area chair at <a href="https://wacv2024.thecvf.com/"> WACV'24</a>!
-- I am Technical Program Chair for the conference <a href="https://www.aimlsystems.org/2023/">AIMLSystems 2023</a>
+- I am one of the Technical Program Chair for the conference <a href="https://www.aimlsystems.org/2023/">AIMLSystems 2023</a>
 - I am a co-organizer of XAI4CV workshop at CVPR'23!
 - I am a session chair of the featured papers panel at NeurIPS’22.
 - I moderated a panel discussion on Responsible AI research and in practice at the workshop on Responsible CV at ECCV’22.
@@ -34,13 +34,15 @@ Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017
 
 
 ## Professional Service
-- **Program Chair:** 
+- **Program Chair:**
+    - <a href="https://www.aimlsystems.org/2023/">AIMLSystems 2023</a>
     - <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks">NeurIPS'22 Datasets and Benchmarks track </a>
 - **Workshop Organizer:** 
    - <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible Computer Vision (ECCV'22) </a>
    - <a href="https://xai4cv.github.io/workshop"> XAI4CV: Explainable Artificial Intelligence for Computer Vision (CVPR'22) </a>
    - <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision} (CVPR'21) </a>
-- **Area Chair:** 
+- **Area Chair:**
+    - WACV'24
     - AAAI'22
     - WiML@NeurIPS'21, CVPR’21
     - WiML’20
