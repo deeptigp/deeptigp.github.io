@@ -10,11 +10,13 @@ title: Deepti Ghadiyaram
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
  </figcaption>
 </figure>
-I am a Senior Research Scientist at Fundamental AI Research (FAIR) in <a href="https://ai.facebook.com/research/"> Meta AI</a> where I work on a broad variety of topics in Computer Vision, Machine Learning, and Image and Video Processing. My interests spans several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
+I am a Staff Research Scientist at Runway where I work on improving quality and safety of generative models. Previously, I was a Senior Research Scientist at Fundamental AI Research (FAIR) in <a href="https://ai.facebook.com/research/"> Meta AI</a> where I work on a broad variety of topics in Computer Vision, Machine Learning, and Image and Video Processing. My interests spans several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
 
-Prior to joining Meta AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Prof. Alan Bovik on perceptual image and video quality assessment for real-world content. 
+Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Prof. Alan Bovik on perceptual image and video quality assessment for real-world content. 
 
 ## News
+- I am an Area chair at <a href="https://wacv2024.thecvf.com/"> WACV'24</a>!
+- I am Technical Program Chair for the conference <a href="https://www.aimlsystems.org/2023/">AIMLSystems 2023</a>
 - I am a co-organizer of XAI4CV workshop at CVPR'23!
 - I am a session chair of the featured papers panel at NeurIPS’22.
 - I moderated a panel discussion on Responsible AI research and in practice at the workshop on Responsible CV at ECCV’22.
