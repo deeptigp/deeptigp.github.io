@@ -8,6 +8,7 @@ title: Deepti Ghadiyaram
 <figcaption> [<a href="mailto: deeptigp9 [at] gmail [dot] com">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] 
  [<a href="https://twitter.com/deeptigp">Twitter</a>] 
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>]
+ 
  [Bio](#short-bio)
  </figcaption>
 </figure>
