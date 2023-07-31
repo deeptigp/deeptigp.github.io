@@ -8,7 +8,7 @@ title: Deepti Ghadiyaram
 <figcaption> [<a href="mailto: deeptigp9 [at] gmail [dot] com">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] 
  [<a href="https://twitter.com/deeptigp">Twitter</a>] 
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
- [Short Bio](#short bio)]
+ [Bio](#short-bio)]
  </figcaption>
 </figure>
 I am a Staff Research Scientist and Tech lead at Runway where I work on improving quality and safety of generative models. Previously, I was a Senior Research Scientist and Tech lead at Fundamental AI Research (FAIR) in <a href="https://ai.facebook.com/research/"> Meta AI</a> where I worked on a broad variety of topics in Computer Vision, Machine Learning, and Image and Video Processing. My interests spans several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
