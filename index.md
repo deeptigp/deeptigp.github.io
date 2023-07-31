@@ -8,6 +8,7 @@ title: Deepti Ghadiyaram
 <figcaption> [<a href="mailto: deeptigp9 [at] gmail [dot] com">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] 
  [<a href="https://twitter.com/deeptigp">Twitter</a>] 
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
+ 
  </figcaption>
 </figure>
 I am a Staff Research Scientist and Tech lead at Runway where I work on improving quality and safety of generative models. Previously, I was a Senior Research Scientist and Tech lead at Fundamental AI Research (FAIR) in <a href="https://ai.facebook.com/research/"> Meta AI</a> where I worked on a broad variety of topics in Computer Vision, Machine Learning, and Image and Video Processing. My interests spans several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
@@ -61,3 +62,9 @@ Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017
     - ICVGIP 2018
     - ACM SIGGRAPH 2017, ICVGIP 2017
     - ICVGIP 2014
+ 
+## Short Bio:
+Deepti is a Staff Research Scientist and a tech lead at Runway where she focuses on improving quality and safety of generative image and video models. Previously, she was a Senior Research Scientist and a tech lead at Fundamental AI Research (FAIR) in Meta AI focusing on a broad topics in Computer Vision, Machine Learning, and Image and Video Processing. Her research interests span several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
+
+Deepti served as a program chair of Neural Information Processing Systems'22 datasets and benchmarks track and AIMLsystems'23 and an area chair for several conferences such as IEEE Conference on Computer Vision and Pattern Recognition (CVPR), IEEE Winter Conference on Applications of Computer Vision (WACV), Women in Machine Learning (WiML), and Association for the Advancement of Artificial Intelligence (AAAI). She organized several workshops on the topics of responsible and explainable computer vision at top-tier machine learning conferences.
+
