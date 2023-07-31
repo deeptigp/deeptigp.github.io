@@ -63,7 +63,7 @@ Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017
     - ACM SIGGRAPH 2017, ICVGIP 2017
     - ICVGIP 2014
  
-## Short Bio:
+## Short Bio
 Deepti is a Staff Research Scientist and a tech lead at Runway where she focuses on improving quality and safety of generative image and video models. Previously, she was a Senior Research Scientist and a tech lead at Fundamental AI Research (FAIR) in Meta AI focusing on a broad topics in Computer Vision, Machine Learning, and Image and Video Processing. Her research interests span several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
 
 Deepti served as a program chair of Neural Information Processing Systems'22 datasets and benchmarks track and AIMLsystems'23 and an area chair for several conferences such as IEEE Conference on Computer Vision and Pattern Recognition (CVPR), IEEE Winter Conference on Applications of Computer Vision (WACV), Women in Machine Learning (WiML), and Association for the Advancement of Artificial Intelligence (AAAI). She organized several workshops on the topics of responsible and explainable computer vision at top-tier machine learning conferences.
