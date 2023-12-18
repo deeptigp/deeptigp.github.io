@@ -5,17 +5,6 @@ title: Publications
 |[Pre-prints](#pre-prints)| [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)| 
 <br>
 <table border="0" rules=none cellspacing="0" cellpadding="0">
- <tr rules=none>
-<td>
- <img width="300" height="100" src="../assets/img/IQA_visually_challenged.jpeg">
-</td>
-<td>
-<b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
- <i>  Maniratnam Mandal, <u> Deepti Ghadiyaram </u>, Danna Gurari, and Alan Bovik </i> <br>
- [<a href="../assets/files/visually_challenged_iqa_cvpr22.pdf">pdf</a>] <i>(under review) </i> <br>
- </td>
-</tr>
-
 </table>
 <br>
 ## Pre-prints
@@ -23,8 +12,29 @@ title: Publications
 ## Publications
 [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)| [2016](#2016) | [2015](#2015) | [2014](#2014)
 ### 2022
+ <tr rules=none>
+<td>
+ <img width="300" height="100" src="../assets/img/IQA_visually_challenged.jpeg">
+</td>
+<td>
+<b> Mitigating stereotypical biases in text to image generative systems</b> <br>
+ <i> Piero Esposito, Parmida Atighehchian, Anastasis Germanidis, <u> Deepti Ghadiyaram </u> </i> <br>
+ [<a href="https://arxiv.org/pdf/2310.06904.pdf">[arxiv]</a>] <i> Workshop on Algorithmic Fairness through the Lens of Time, NeurIPS'2023</i> <br>
+ </td>
+</tr>
+
 <table border="0" rules=none cellspacing="0" cellpadding="0">
- 
+ <tr rules=none>
+<td>
+ <img width="300" height="100" src="../assets/img/IQA_visually_challenged.jpeg">
+</td>
+<td>
+<b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
+ <i>  Maniratnam Mandal, <u> Deepti Ghadiyaram </u>, Danna Gurari, and Alan Bovik </i> <br>
+ [<a href="../assets/files/visually_challenged_iqa_cvpr22.pdf">pdf</a>] <i> IEEE Transactions of Image Processing, 2022 </i> <br>
+ </td>
+</tr>
+
 <tr rules=none>
 <td>
  <img width="300" height="120" src="../assets/img/eccv2022_counterfactuals.png">
