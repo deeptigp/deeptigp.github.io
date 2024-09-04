@@ -16,6 +16,7 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Prof. Alan Bovik on perceptual image and video quality assessment for real-world content. 
 
 ## News
+- [July'24] Started as an Assistant Professor in CS at Boston University! 
 - I am an Area chair at <a href="https://wacv2024.thecvf.com/"> WACV'24</a>!
 - I am one of the Technical Program Chair for the conference <a href="https://www.aimlsystems.org/2023/">AIMLSystems 2023</a>
 - I am a co-organizer of XAI4CV workshop at CVPR'23!
