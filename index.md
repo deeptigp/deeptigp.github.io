@@ -26,13 +26,6 @@ Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017
 - I am serving as a Program Chair for <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks"> NeurIPS'22 Datasets and Benchmarks track </a>
 - I am serving as an Area Chair for AAAI'22, WiML workshop @ NeurIPS'21
 - 1 paper accepted at ECCV'21!
-- I am the main organizer of a full-day workshop on <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision </a> at CVPR'21! 
-- 2 papers accepted at CVPR'21!
-- [March 8th, 2021] Interviewed by IIIT-Hyderabad as part of Alumni Speak series on my journey from an undergraduate student to a successful researcher <a href="https://www.youtube.com/watch?v=aELF0h8fqfo"> link </a> 
-- 1 paper accepted in the Sign Language Recognition, Translation & Production (SLRTP) Workshop  ECCV'20.
-- 3 papers accepted to CVPR'20, 1 oral acceptance.
-- 3 papers accepted to CVPR'19.
-
 
 ## Professional Service
 - **Program Chair:**
