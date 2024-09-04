@@ -9,10 +9,11 @@ author: Deepti Ghadiyaram
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Courses: "/teaching"
   CV: "/assets/files/CV_Ghadiyaram_DL.pdf"
-  Publications: "/pubs"
-  Invited Talks: "/invited_talks"
   Datasets: "/datasets"
+  Invited Talks: "/invited_talks"
+  Publications: "/pubs"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
