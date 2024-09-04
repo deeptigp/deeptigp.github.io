@@ -11,7 +11,7 @@ title: Deepti Ghadiyaram
  [Bio](#short-bio)
  </figcaption>
 </figure>
-I am a Staff Research Scientist and Tech lead at Runway where I work on improving quality and safety of generative models. Previously, I was a Senior Research Scientist and Tech lead at Fundamental AI Research (FAIR) in <a href="https://ai.facebook.com/research/"> Meta AI</a> where I worked on a broad variety of topics in Computer Vision, Machine Learning, and Image and Video Processing. My interests spans several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
+I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. I primarily work on topics pertaining to safe, interpretable, and responsible computer vision Previously, I was a Senior Research Scientist and Tech lead at Fundamental AI Research (FAIR) in <a href="https://ai.facebook.com/research/"> Meta AI</a> where I worked on a broad variety of topics in Computer Vision, Machine Learning, and Image and Video Processing. My interests spans several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
 
 Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Prof. Alan Bovik on perceptual image and video quality assessment for real-world content. 
 
