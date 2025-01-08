@@ -1,7 +1,7 @@
 **PhD students**
 - Dahye Kim
-- Tianle Chen
+- <a href="https://cs-people.bu.edu/tianle/"> Tianle Chen
 
 
 **MS Students**
-- Xavier Thomas
+- <a href="https://xavierohan.github.io/"> Xavier Thomas
