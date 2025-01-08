@@ -10,13 +10,15 @@ title: Deepti Ghadiyaram
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
 </figcaption>
 </figure>
-I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. I primarily work on topics pertaining to safe, interpretable, and responsible computer vision. Previously, I was a Senior Research Scientist and Tech lead at Fundamental AI Research (FAIR) in <a href="https://ai.facebook.com/research/"> Meta AI</a> where I worked on a broad variety of topics in Computer Vision, Machine Learning, and Image and Video Processing. My interests spans several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
+I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. My research interests are in Computer Vision and Machine Learning, with a special focus improving the safety, interpretability, and robustness of computer vision systems. Previously, I was a Senior Research Scientist and Tech lead at Fundamental AI Research (FAIR) in <a href="https://ai.facebook.com/research/"> Meta AI</a> where I worked on a broad variety of topics in Computer Vision, Machine Learning, and Image and Video Processing. My interests spans several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
 
 Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Prof. Alan Bovik on perceptual image and video quality assessment for real-world content. 
 
 ## News
+-  Named Computing & Data Sciences (CDS) <a href="https://www.bu.edu/cds-faculty/culture-community/faculty/faculty-fellows/">Faculty Fellow</a> in 2024.
 - [July'24] Started as an Assistant Professor in CS at Boston University! 
 - I am an Area chair at <a href="https://wacv2024.thecvf.com/"> WACV'24</a>!
+- 1 paper accepted at NeurIPS'23!
 - I am one of the Technical Program Chair for the conference <a href="https://www.aimlsystems.org/2023/">AIMLSystems 2023</a>
 - I am a co-organizer of XAI4CV workshop at CVPR'23!
 - I am a session chair of the featured papers panel at NeurIPS’22.
@@ -24,8 +26,7 @@ Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017
 - I am one of the main organizers of <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible CV </a> at ECCV'22.
 - 2 papers accepted at ECCV'22!
 - I am serving as a Program Chair for <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks"> NeurIPS'22 Datasets and Benchmarks track </a>
-- I am serving as an Area Chair for AAAI'22, WiML workshop @ NeurIPS'21
-- 1 paper accepted at ECCV'21!
+
 
 ## Professional Service
 - **Program Chair:**
@@ -57,7 +58,4 @@ Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017
     - ICVGIP 2014
  
 ## Short Bio
-Deepti is an Assistant Professor in the Dept. of Computer Science in Boston University. Her research interests are in Computer Vision and Machine Learning, with a special focus improving the safety, interpretability, and robustness of computer vision systems. She is also a Member of Technical Staff at Runway. Previously she spent over 5 years at Meta AI Research working on image and video understanding models, fair and inclusive computer vision models, and ML explainability. She obtained her PhD at the University of Texas at Austin in 2017 where she worked with Prof. Alan Bovik on perceptual image and video quality assessment for real-world content. She has served as a program chair for NeurIPS 2022 Dataset and Benchmarks track, hosted several tutorials and organized workshops and an area chair for CVPR, ICCV, ECCV, and NeurIPS.
-
-Deepti served as a program chair of Neural Information Processing Systems'22 datasets and benchmarks track and AIMLsystems'23 and an area chair for several conferences such as IEEE Conference on Computer Vision and Pattern Recognition (CVPR), IEEE Winter Conference on Applications of Computer Vision (WACV), Women in Machine Learning (WiML), and Association for the Advancement of Artificial Intelligence (AAAI). She organized several workshops on the topics of responsible and explainable computer vision at top-tier machine learning conferences.
-
+Deepti is an Assistant Professor in the Department of Computer Science in Boston University and a Member of Technical Staff at Runway. Her research interests are in Computer Vision and Machine Learning, with a special focus improving the safety, interpretability, and robustness of computer vision systems. Previously she spent over 5 years at Meta AI Research working on image and video understanding models, fair and inclusive computer vision models, and ML explainability. She obtained her PhD at the University of Texas at Austin in 2017 where she worked with Prof. Alan Bovik on perceptual image and video quality assessment for real-world content. She has served as a program chair for NeurIPS 2022 Dataset and Benchmarks track, AIMLsystems'23, and an area chair for several conferences such as IEEE Conference on Computer Vision and Pattern Recognition (CVPR), IEEE Winter Conference on Applications of Computer Vision (WACV), Women in Machine Learning (WiML), and Association for the Advancement of Artificial Intelligence (AAAI). She organized several workshops on the topics of responsible and explainable computer vision at top-tier machine learning conferences.
