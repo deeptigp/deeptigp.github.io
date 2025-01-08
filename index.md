@@ -1,6 +1,6 @@
 <br>
 <figure>
- <img align="left" src="/assets/img/deepti_pic_cropped.png" width="230" height="235" hspace="5">
+ <img align="left" src="/assets/img/deepti_pic_cropped.png" width="230" height="235" hspace="25" vspace="25">
 <figcaption> [<a href="mailto: dghadiya [at] bu [dot] edu">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] 
  [<a href="https://twitter.com/deeptigp">Twitter</a>] 
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
