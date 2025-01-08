@@ -1,5 +1,5 @@
 **PhD students**
-- Dahye Kim
+- <a href="https://kim-dahye.github.io/"> Dahye Kim
 - <a href="https://cs-people.bu.edu/tianle/"> Tianle Chen
 
 
