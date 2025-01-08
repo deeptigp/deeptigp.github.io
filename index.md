@@ -1,7 +1,3 @@
----
-layout: page
-title: Deepti Ghadiyaram
----
 <br>
 <figure>
  <img align="left" src="/assets/img/deepti_pic_cropped.png" width="330">
