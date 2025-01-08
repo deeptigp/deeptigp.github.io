@@ -11,7 +11,7 @@ author: Deepti Ghadiyaram
 navbar-links:
   Students: "/students"
   Courses: "/teaching"
-  CV: "/assets/files/CV_Ghadiyaram_DL.pdf"
+  CV: "/assets/files/CV_Ghadiyaram_DL_jan25.pdf"
   Datasets: "/datasets"
   Invited Talks: "/invited_talks"
   Publications: "/pubs"
@@ -34,8 +34,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "[deeptigp] [at] [fb.com]"
-  facebook: deepti.gp
+  email: "[dghadita] [at] [bu].[edu]"
   github: deeptigp
   twitter: deeptigp
   linkedin: deeptigp
