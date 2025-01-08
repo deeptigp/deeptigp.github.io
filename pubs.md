@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+Latest list of publications <a href="https://scholar.google.com/citations?hl=en&user=NyKCrmoAAAAJ&view_op=list_works&sortby=pubdate"> here
 |[Pre-prints](#pre-prints)| [Publications](#publications) | [Patents](#patents) | [Book Chapters](#book-chapters)| 
 <br>
 <table border="0" rules=none cellspacing="0" cellpadding="0">
