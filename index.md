@@ -10,10 +10,12 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 <br> 
 
 **Note to prospective students:**
-Due to large volumes of emails, I am unable to respond to your emails. 
 - If you are currently a MS student at BU, fill out <a href="https://forms.gle/WNfHswt1B8EEzekc7">this form</a> and I will reach out if I am looking for a student.
 - If you are interested in applying to BU as a PhD student and are interested in working with me, mention my name in your application. It is not necessary to contact me.
- 
+<br>
+Due to large volumes of emails, I am unable to respond to your emails. 
+
+
 ## News
 -  Named Computing & Data Sciences (CDS) <a href="https://www.bu.edu/cds-faculty/culture-community/faculty/faculty-fellows/">Faculty Fellow</a> in 2024.
 - [July'24] Started as an Assistant Professor in CS at Boston University! 
