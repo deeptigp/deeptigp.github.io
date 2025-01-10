@@ -6,10 +6,13 @@
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
 </figcaption>
 </figure>
-I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. My research interests are in Computer Vision and Machine Learning, with a special focus improving the safety, interpretability, and robustness of computer vision systems. Previously, I was a Senior Research Scientist and Tech lead at Fundamental AI Research (FAIR) in <a href="https://ai.facebook.com/research/"> Meta AI</a> where I worked on a broad variety of topics in Computer Vision, Machine Learning, and Image and Video Processing. My interests spans several topics such as building image and video understanding models, fair and inclusive computer vision models, ML explainability, and perceptual image and video quality.
+I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. My research interests are in Computer Vision and Machine Learning, with a special focus improving the safety, interpretability, and robustness of computer vision systems. I obtained my PhD at the University of Texas at Austin in 2017, and worked at Facebook AI Research and Runway prior to joining BU.
 
-Prior to Meta AI, I obtained my PhD at the University of Texas at Austin in 2017 where I worked with Prof. Alan Bovik on perceptual image and video quality assessment for real-world content. 
-
+**Note to prospective students:**
+Due to large volumes of emails, I am unable to respond to your emails. 
+- If you are currently a MS student at BU, fill out this form and I will reach out if I am looking for a student.
+- If you are interested in applying to BU as a PhD student and are interested in working with me, mention my name in your application. It is not necessary to contact me.
+ 
 ## News
 -  Named Computing & Data Sciences (CDS) <a href="https://www.bu.edu/cds-faculty/culture-community/faculty/faculty-fellows/">Faculty Fellow</a> in 2024.
 - [July'24] Started as an Assistant Professor in CS at Boston University! 
