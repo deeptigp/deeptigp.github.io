@@ -1,2 +1,2 @@
-- [Spring 2025] Applied Machine Learning
-- [Fall 2024] Advanced Topics of Computer Vision <a href="https://docs.google.com/document/d/1E6-L6qpvpyOgCo-XHZPRJqrxjbYE502B8RrOrB9WcfU/pub">[course website]
+- [Spring 2025] <a href="https://docs.google.com/document/d/e/2PACX-1vQ-JiPOb-4qfGpleLgKZ3EuX17gwojbG_vs7Fz66w5UskvLsmR6Q0y1PkLfEVGIBbUNxpOAl9up5I8n/pub"> Applied Machine Learning </a>
+- [Fall 2024] <a href="https://docs.google.com/document/d/1E6-L6qpvpyOgCo-XHZPRJqrxjbYE502B8RrOrB9WcfU/pub"> Advanced Topics of Computer Vision </a>
