@@ -7,10 +7,10 @@
 </figcaption>
 </figure>
 I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. My research interests are in Computer Vision and Machine Learning, with a special focus improving the safety, interpretability, and robustness of computer vision systems. I obtained my PhD at the University of Texas at Austin in 2017, and worked at Facebook AI Research and Runway prior to joining BU.
-
+<br> 
 **Note to prospective students:**
 Due to large volumes of emails, I am unable to respond to your emails. 
-- If you are currently a MS student at BU, fill out this form and I will reach out if I am looking for a student.
+- If you are currently a MS student at BU, fill out <a href="https://forms.gle/WNfHswt1B8EEzekc7">this form</a> and I will reach out if I am looking for a student.
 - If you are interested in applying to BU as a PhD student and are interested in working with me, mention my name in your application. It is not necessary to contact me.
  
 ## News
