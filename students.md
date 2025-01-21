@@ -8,5 +8,5 @@
 - <a href=""> Satya Galla </a>
 - <a href=""> Chaitanya Chakka </a>
 
-** Undergraduate Students**
+**Undergraduate Students**
 - <a href="https://ryan-j-gilbert.github.io/portfolio-cv/"> Ryan Gilbert </a>
