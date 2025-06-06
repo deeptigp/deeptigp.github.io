@@ -6,7 +6,7 @@
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
 </figcaption>
 </figure>
-I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. My research interests are in Computer Vision and Machine Learning, with a special focus improving the safety, interpretability, and robustness of computer vision systems. I obtained my PhD at the University of Texas at Austin in 2017, and worked at Facebook AI Research and Runway prior to joining BU.
+I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. My research interests are in building safe, interpretable, and robust computer vision systems and also improving their reasoning capabilities. I obtained my PhD at the University of Texas at Austin and worked at Facebook AI Research and Runway prior to joining BU.
 <br> 
 
 **Note to prospective students:**
