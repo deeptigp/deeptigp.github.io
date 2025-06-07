@@ -6,7 +6,7 @@
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
 </figcaption>
 </figure>
-I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. My research interests are in building safe, interpretable, and robust computer vision systems and also improving their reasoning capabilities. I obtained my PhD at the University of Texas at Austin and worked at Facebook AI Research and Runway prior to joining BU.
+I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a> and also a Member of Technical Staff at Runway. My research interests are in building safe, interpretable, and robust computer vision systems and also on improving their reasoning capabilities. I obtained my PhD at the University of Texas at Austin and worked at Facebook AI Research and Runway prior to joining BU.
 <br> 
 
 **Note to prospective students:**
@@ -17,6 +17,7 @@ Due to large volumes of emails, I am unable to respond to your emails.
 
 
 ## News
+- I'll be speaking at <a href="https://vision-x-nyu.github.io/scalable-vision-cvpr2025/"> Scalable Generative Models in Computer Vision</a> and <a href="https://worldmodelbench.github.io/"> WorldModelBench: The 1st Workshop on Benchmarking World Models </a> at CVPR'25
 -  Named Computing & Data Sciences (CDS) <a href="https://www.bu.edu/cds-faculty/culture-community/faculty/faculty-fellows/">Faculty Fellow</a> in 2024.
 - [July'24] Started as an Assistant Professor in CS at Boston University! 
 - I am an Area chair at <a href="https://wacv2024.thecvf.com/"> WACV'24</a>!
