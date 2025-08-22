@@ -12,7 +12,7 @@
 
 **Undergraduate Students**
 - <a href="https://www.linkedin.com/in/zachary-meurer"> Zachary Meurer (Fall 2025) </a>
-- <a href="https://ryan-j-gilbert.github.io/portfolio-cv/"> Ryan Gilbert (part of <ahref="https://www.bu.edu/urop/"> UROP </a> Spring 2025) </a>
+- <a href="https://ryan-j-gilbert.github.io/portfolio-cv/"> Ryan Gilbert </a> (part of <ahref="https://www.bu.edu/urop/"> UROP </a> Spring 2025)
 
 **High school Students**
 - Audrey Zhang (<a href="https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/"> RISE </a> Mentee, Summer'25
