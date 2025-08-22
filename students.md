@@ -1,10 +1,10 @@
 **PhD students**
-- <a href="https://kim-dahye.github.io/"> Dahye Kim </a> 
-- <a href="https://cs-people.bu.edu/tianle/"> Tianle Chen </a> 
-- <a href="https://www.bu.edu/cs/profiles/nicholas-ikechukwu/"> Nicholas Ikechukwu </a>  (co-advised with <a href="https://bryanplummer.com/"> Bryan Plummer </a>) 
-- <a href="https://xavierohan.github.io/"> Xavier Thomas </a>
-- <a href="https://sgt-lim.github.io/"> Youngsun Lim </a>
-- <a href="https://manushree635.github.io/"> Manushree Vasu </a>
+- <a href="https://kim-dahye.github.io/"> Dahye Kim (2024 - )</a> 
+- <a href="https://cs-people.bu.edu/tianle/"> Tianle Chen (2024 - )</a> 
+- <a href="https://www.bu.edu/cs/profiles/nicholas-ikechukwu/"> Nicholas Ikechukwu (2024 - )</a>  (co-advised with <a href="https://bryanplummer.com/"> Bryan Plummer </a>) 
+- <a href="https://xavierohan.github.io/"> Xavier Thomas (2025 - )</a>
+- <a href="https://sgt-lim.github.io/"> Youngsun Lim (2025 - )</a>
+- <a href="https://manushree635.github.io/"> Manushree Vasu (2025 - )</a>
 
 **MS Students**
 - <a href=""> Satya Galla </a>
@@ -15,5 +15,5 @@
 - <a href="https://ryan-j-gilbert.github.io/portfolio-cv/"> Ryan Gilbert (Spring 2025) </a>
 
 **High school Students**
-- Audrey Zhang (<a href="https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/"> RISE </a> Mentee
-- Ananya Srinivasan (volunteer)
+- Audrey Zhang (<a href="https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/"> RISE </a> Mentee, Summer'25
+- Ananya Srinivasan (volunteer, Summer'25) 
