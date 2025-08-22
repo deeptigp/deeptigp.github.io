@@ -15,5 +15,5 @@
 - <a href="https://ryan-j-gilbert.github.io/portfolio-cv/"> Ryan Gilbert </a> (part of <a href="https://www.bu.edu/urop/"> UROP </a> Spring 2025)
 
 **High school Students**
-- Audrey Zhang (<a href="https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/"> RISE </a> Mentee, Summer'25
+- Audrey Zhang (<a href="https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/">RISE</a> Mentee, Summer'25)
 - Ananya Srinivasan (volunteer, Summer'25) 
