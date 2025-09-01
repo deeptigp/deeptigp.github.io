@@ -16,7 +16,7 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 
 ## News
 - Two papers <a href="https://arxiv.org/pdf/2411.16725">[REVELIO 🪄]</a> and <a href="https://arxiv.org/pdf/2503.06698"> [GUIDE]</a> accepted at ICCV'25!🎉
-- I served as one of the chairs for the <a href="https://cvpr.thecvf.com/Conferences/2025/Organizers"> Broadening Participation</a> at CVPR'25. Our goal was to goal identify students who don't have the financial means to attend and support them. 
+- I served as one of the chairs for the <a href="https://cvpr.thecvf.com/Conferences/2025/Organizers"> Broadening Participation</a> at CVPR'25. Our goal was to identify students who don't have the financial means to attend and support them. 
 - I'll be speaking at <a href="https://vision-x-nyu.github.io/scalable-vision-cvpr2025/"> Scalable Generative Models in Computer Vision</a> and <a href="https://worldmodelbench.github.io/"> WorldModelBench: The 1st Workshop on Benchmarking World Models </a> at CVPR'25
 -  Named Computing & Data Sciences (CDS) <a href="https://www.bu.edu/cds-faculty/culture-community/faculty/faculty-fellows/">Faculty Fellow</a> in 2024.
 - [July'24] Started as an Assistant Professor in CS at Boston University! 
