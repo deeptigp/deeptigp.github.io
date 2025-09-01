@@ -12,7 +12,7 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 **Note to prospective students:**
 - If you are currently a **MS student** at BU and are interested in working with me, please first take either CS599 (Advanced Topics in Computer Vision) or CS542 (Applied Machine Learning) or CS541 (Machine Learning). 
 - If you are interested in applying to BU as a **PhD student** and are interested in working with me, mention my name in your application. It is not necessary to contact me and attach your application.
-- **Due to large volumes of emails, I am unable to respond to your emails. **
+- **Due to large volumes of emails, I am unable to respond to your emails.**
 
 ## News
 - Two papers <a href="https://arxiv.org/pdf/2411.16725">[REVELIO 🪄]</a> and <a href="https://arxiv.org/pdf/2503.06698"> [GUIDE]</a> accepted at ICCV'25!🎉
