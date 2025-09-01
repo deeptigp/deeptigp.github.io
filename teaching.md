@@ -1,3 +1,3 @@
-- [Fall 2025, CS 599] <a href="https://docs.google.com/document/d/1E6-L6qpvpyOgCo-XHZPRJqrxjbYE502B8RrOrB9WcfU/pub"> Advanced Topics of Computer Vision </a>
+- [Fall 2025, CS 599] <a href="https://docs.google.com/document/d/e/2PACX-1vSiLhPTTrSwnJKsfEQBB5QfnJV__sYH1iMlDXggRxgKzQb-TvTneWEX0JrFZhjFE8va7ZZbhgT0emWX/pub"> Advanced Topics of Computer Vision </a>
 - [Spring 2025, CS 541] <a href="https://docs.google.com/document/d/e/2PACX-1vQ-JiPOb-4qfGpleLgKZ3EuX17gwojbG_vs7Fz66w5UskvLsmR6Q0y1PkLfEVGIBbUNxpOAl9up5I8n/pub"> Applied Machine Learning </a>
 - [Fall 2024, CS 791] <a href="https://docs.google.com/document/d/1E6-L6qpvpyOgCo-XHZPRJqrxjbYE502B8RrOrB9WcfU/pub"> Advanced Topics of Computer Vision </a>
