@@ -15,6 +15,7 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 - **Due to large volumes, I am unable to respond to your emails.**
 
 ## News
+- Received <a href="https://www.bu.edu/provost/awards-publications/award-opportunities/career-development-professorships/"> Moorman-Simon Interdisciplinary Career Development Professorship </a> award from Boston University for the years 2025-2028 for conducting interdisciplinary work!  
 - Serving as a senior Area Chair for CVPR'26!
 - I will be giving a keynote talk at <a href="https://cvam-workshop.github.io/"> Computer Vision in Advertising and Marketing </a> at ICCV'25.
 - Two papers <a href="https://arxiv.org/pdf/2411.16725">[REVELIO 🪄]</a> and <a href="https://arxiv.org/pdf/2503.06698"> [GUIDE]</a> accepted at ICCV'25!🎉
@@ -23,14 +24,6 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 -  Named Computing & Data Sciences (CDS) <a href="https://www.bu.edu/cds-faculty/culture-community/faculty/faculty-fellows/">Faculty Fellow</a> in 2024.
 - [July'24] Started as an Assistant Professor in CS at Boston University! 
 - I am an Area chair at <a href="https://wacv2024.thecvf.com/"> WACV'24</a>!
-- 1 paper accepted at NeurIPS'23!
-- I am one of the Technical Program Chair for the conference <a href="https://www.aimlsystems.org/2023/">AIMLSystems 2023</a>
-- I am a co-organizer of XAI4CV workshop at CVPR'23!
-- I am a session chair of the featured papers panel at NeurIPS’22.
-- I moderated a panel discussion on Responsible AI research and in practice at the workshop on Responsible CV at ECCV’22.
-- I am one of the main organizers of <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible CV </a> at ECCV'22.
-- 2 papers accepted at ECCV'22!
-- I am serving as a Program Chair for <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks"> NeurIPS'22 Datasets and Benchmarks track </a>
 
 
 ## Professional Service
