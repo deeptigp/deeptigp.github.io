@@ -15,7 +15,7 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 - **Due to large volumes, I am unable to respond to your emails.**
 
 ## News
-- Received <a href="https://www.bu.edu/provost/awards-publications/award-opportunities/career-development-professorships/"> Moorman-Simon Interdisciplinary Career Development Professorship </a> award from Boston University for the years 2025-2028 for conducting interdisciplinary work!  
+- Received <a href="https://www.bu.edu/articles/2025/bu-junior-faculty-career-development-professors/"> Moorman-Simon Interdisciplinary Career Development Professorship </a> award from Boston University for the years 2025-2028 for conducting interdisciplinary work!  
 - Serving as a senior Area Chair for CVPR'26!
 - I will be giving a keynote talk at <a href="https://cvam-workshop.github.io/"> Computer Vision in Advertising and Marketing </a> at ICCV'25.
 - Two papers <a href="https://arxiv.org/pdf/2411.16725">[REVELIO 🪄]</a> and <a href="https://arxiv.org/pdf/2503.06698"> [GUIDE]</a> accepted at ICCV'25!🎉
