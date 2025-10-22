@@ -15,9 +15,9 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 - **Due to large volumes, I am unable to respond to your emails.**
 
 ## News
+- Gave two talks at ICCV'25, one on interpretability of generative models at <a href="https://excv-workshop.github.io/" >Explainable Computer Vision: Quo Vadis? </a>, another on the techniques to improve fine-grained prompt alignment of generations at <a href="https://cvam-workshop.github.io/" Computer Vision in Advertising and Marketing </a> 
 - Received <a href="https://www.bu.edu/articles/2025/bu-junior-faculty-career-development-professors/"> Moorman-Simon Interdisciplinary Career Development Professorship </a> award from Boston University for the years 2025-2028 for conducting interdisciplinary work!  
 - Serving as a senior Area Chair for CVPR'26!
-- I will be giving a keynote talk at <a href="https://cvam-workshop.github.io/"> Computer Vision in Advertising and Marketing </a> at ICCV'25.
 - Two papers <a href="https://arxiv.org/pdf/2411.16725">[REVELIO 🪄]</a> and <a href="https://arxiv.org/pdf/2503.06698"> [GUIDE]</a> accepted at ICCV'25!🎉
 - I served as one of the chairs for the <a href="https://cvpr.thecvf.com/Conferences/2025/Organizers"> Broadening Participation</a> at CVPR'25. Our goal was to identify students who don't have the financial means to attend and support them. 
 - I'll be speaking at <a href="https://vision-x-nyu.github.io/scalable-vision-cvpr2025/"> Scalable Generative Models in Computer Vision</a> and <a href="https://worldmodelbench.github.io/"> WorldModelBench: The 1st Workshop on Benchmarking World Models </a> at CVPR'25
