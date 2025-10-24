@@ -10,7 +10,7 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 <br> <br>
 
 **Note to prospective students:**
-- If you are currently a **MS student** at BU and are interested in working with me, please first take either CS599 (Advanced Topics in Computer Vision) or CS542 (Applied Machine Learning), or CS541 (Machine Learning). I do not recruit students who haven't first taken one of these courses. **Please do not email me before taking these courses.**
+- If you are currently a **MS student** at BU and are interested in working with me, please first take either <a href="https://docs.google.com/document/d/e/2PACX-1vSiLhPTTrSwnJKsfEQBB5QfnJV__sYH1iMlDXggRxgKzQb-TvTneWEX0JrFZhjFE8va7ZZbhgT0emWX/pub"> CS599 (Advanced Topics in Computer Vision) </a> or <a href="https://sites.google.com/view/cs542fall2025"> CS542 (Principles of Machine Learning) </a>, or <a href="https://docs.google.com/document/d/e/2PACX-1vQ-JiPOb-4qfGpleLgKZ3EuX17gwojbG_vs7Fz66w5UskvLsmR6Q0y1PkLfEVGIBbUNxpOAl9up5I8n/pub"> CS541 (Applied achine Learning) </a>. I do not recruit students who haven't first taken one of these courses. **Please do not email me before taking these courses.**
 - If you are interested in applying to BU as a **PhD student** and are interested in working with me, mention my name in your application. It is not necessary to contact me and attach your application.
 - **Due to large volumes, I am unable to respond to your emails.**
 
