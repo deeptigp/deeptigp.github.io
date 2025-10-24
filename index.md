@@ -10,12 +10,12 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 <br> <br>
 
 **Note to prospective students:**
-- If you are currently a **MS student** at BU and are interested in working with me, please first take either CS599 (Advanced Topics in Computer Vision) or CS542 (Applied Machine Learning) or CS541 (Machine Learning). I do not recruit students who haven't first taken one of these courses. 
+- If you are currently a **MS student** at BU and are interested in working with me, please first take either CS599 (Advanced Topics in Computer Vision) or CS542 (Applied Machine Learning), or CS541 (Machine Learning). I do not recruit students who haven't first taken one of these courses. **Please do not email me before taking these courses.**
 - If you are interested in applying to BU as a **PhD student** and are interested in working with me, mention my name in your application. It is not necessary to contact me and attach your application.
 - **Due to large volumes, I am unable to respond to your emails.**
 
 ## News
-- Gave two talks at ICCV'25, one on interpretability of generative models at <a href="https://excv-workshop.github.io/" >Explainable Computer Vision: Quo Vadis? </a>, another on the techniques to improve fine-grained prompt alignment of generations at <a href="https://cvam-workshop.github.io/" Computer Vision in Advertising and Marketing </a> 
+- Gave two talks at ICCV'25, one on interpretability of generative models at <a href="https://excv-workshop.github.io/" >Explainable Computer Vision: Quo Vadis? </a>, another on the techniques to improve fine-grained prompt alignment of generations at <a href="https://cvam-workshop.github.io/"> Computer Vision in Advertising and Marketing </a> 
 - Received <a href="https://www.bu.edu/articles/2025/bu-junior-faculty-career-development-professors/"> Moorman-Simon Interdisciplinary Career Development Professorship </a> award from Boston University for the years 2025-2028 for conducting interdisciplinary work!  
 - Serving as a senior Area Chair for CVPR'26!
 - Two papers <a href="https://arxiv.org/pdf/2411.16725">[REVELIO 🪄]</a> and <a href="https://arxiv.org/pdf/2503.06698"> [GUIDE]</a> accepted at ICCV'25!🎉
