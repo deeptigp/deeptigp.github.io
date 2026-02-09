@@ -25,7 +25,7 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 - <a href="https://www.linkedin.com/in/zachary-meurer"> Zachary Meurer (Fall 2025) </a>
 - <a href="https://www.linkedin.com/in/jqiu1"> Jason Qiu (Fall 2025) </a>
 - <a href="https://www.linkedin.com/in/mikewakeham"> Michael Wakeham (Spring 2026) </a>
-- <a href="https://ryan-j-gilbert.github.io/portfolio-cv/"> <p style="color: rgb(128, 128, 128);"> Ryan Gilbert </a> (part of <a href="https://www.bu.edu/urop/"> UROP </a> Spring 2025) </a>
+- <a href="https://ryan-j-gilbert.github.io/portfolio-cv/"> Ryan Gilbert </a> (part of <a href="https://www.bu.edu/urop/"> UROP </a> Spring 2025)
 
 **High school Students**
 - Audrey Zhang (<a href="https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/">RISE</a> Mentee, Summer'25)
