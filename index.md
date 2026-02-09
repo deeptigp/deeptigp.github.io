@@ -6,7 +6,7 @@
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
 </figcaption>
 </figure>
-<br> <br> <br>
+<br> <br>
 I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a>. I am also an Affiliated Faculty with the <a href="https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/"> Department of Electrical and Computer Engineering</a> and <a href="https://www.bu.edu/cds-faculty/"> Faculty of Computing & Data Sciences</a> and an academic collaborator with Runway. My research interests are in building safe, interpretable, and robust computer vision systems and also on improving their reasoning capabilities. 
 <br> <br> 
 ## Research Group
