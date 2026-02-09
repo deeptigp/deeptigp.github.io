@@ -9,7 +9,7 @@ author: Deepti Ghadiyaram
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Short bio: "/short-bio"
+  Short bio: "/short_bio"
   Teaching: "/teaching"
   CV: "/assets/CV_Ghadiyaram.pdf"
   Datasets: "/datasets"
