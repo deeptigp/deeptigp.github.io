@@ -6,13 +6,32 @@
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
 </figcaption>
 </figure>
-I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a>. I am also an Affiliated Faculty with the <a href="https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/"> Department of Electrical and Computer Engineering</a> and <a href="https://www.bu.edu/cds-faculty/"> Faculty of Computing & Data Sciences</a> and an academic collaborator with Runway. My research interests are in building safe, interpretable, and robust computer vision systems and also on improving their reasoning capabilities. I obtained my PhD at the University of Texas at Austin and worked at Facebook AI Applied Research and Runway prior to joining BU.
+I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a>. I am also an Affiliated Faculty with the <a href="https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/"> Department of Electrical and Computer Engineering</a> and <a href="https://www.bu.edu/cds-faculty/"> Faculty of Computing & Data Sciences</a> and an academic collaborator with Runway. My research interests are in building safe, interpretable, and robust computer vision systems and also on improving their reasoning capabilities. 
 <br> <br>
 
-**Note to prospective students:**
-- If you are currently a **MS student** at BU and are interested in working with me, please first take either <a href="https://docs.google.com/document/d/e/2PACX-1vSiLhPTTrSwnJKsfEQBB5QfnJV__sYH1iMlDXggRxgKzQb-TvTneWEX0JrFZhjFE8va7ZZbhgT0emWX/pub"> CS599 (Advanced Topics in Computer Vision) </a> or <a href="https://sites.google.com/view/cs542fall2025"> CS542 (Principles of Machine Learning) </a>, or <a href="https://docs.google.com/document/d/e/2PACX-1vQ-JiPOb-4qfGpleLgKZ3EuX17gwojbG_vs7Fz66w5UskvLsmR6Q0y1PkLfEVGIBbUNxpOAl9up5I8n/pub"> CS541 (Applied achine Learning) </a>. I do not recruit students who haven't first taken one of these courses. **Please do not email me before taking these courses.**
-- If you are interested in applying to BU as a **PhD student** and are interested in working with me, mention my name in your application. It is not necessary to contact me and attach your application.
-- **Due to large volumes, I am unable to respond to your emails.**
+## Research Group
+**PhD students**
+- <a href="https://kim-dahye.github.io/"> Dahye Kim (2024 - )</a> 
+- <a href="https://cs-people.bu.edu/tianle/"> Tianle Chen (2024 - )</a> 
+- <a href="https://www.bu.edu/cs/profiles/nicholas-ikechukwu/"> Nicholas Ikechukwu (2024 - )</a>  (co-advised with <a href="https://bryanplummer.com/"> Bryan Plummer </a>) 
+- <a href="https://xavierohan.github.io/"> Xavier Thomas (2025 - )</a>
+- <a href="https://sgt-lim.github.io/"> Youngsun Lim (2025 - )</a>
+- <a href="https://manushree635.github.io/"> Manushree Vasu (2025 - )</a>
+
+**MS Students**
+- <a href="https://www.ifreen.com/"> Mohammed Ifreen </a> (2025 - present)
+- <a href="https://github.com/LearningLeopard"> Chaitanya Chakka </a>, Masters Thesis, (2025 - present)
+
+**Undergraduate Students**
+- <a href="https://www.linkedin.com/in/zachary-meurer"> Zachary Meurer (Fall 2025) </a>
+- <a href="https://www.linkedin.com/in/jqiu1"> Jason Qiu (Fall 2025) </a>
+- <a href="https://www.linkedin.com/in/mikewakeham"> Michael Wakeham (Spring 2026) </a>
+- <a href="https://ryan-j-gilbert.github.io/portfolio-cv/"> <p style="color: rgb(128, 128, 128);"> Ryan Gilbert </a> (part of <a href="https://www.bu.edu/urop/"> UROP </a> Spring 2025) </a>
+
+**High school Students**
+- Audrey Zhang (<a href="https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/">RISE</a> Mentee, Summer'25)
+- Ananya Srinivasan (volunteer, Summer'25) 
+
 
 ## News
 - Interviewed by <a href="https://www.rsipvision.com/ComputerVisionNews-2025December/21/"> Computer Vision News </a> on my research trajectory.
@@ -25,34 +44,11 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 -  Named Computing & Data Sciences (CDS) <a href="https://www.bu.edu/cds-faculty/culture-community/faculty/faculty-fellows/">Faculty Fellow</a> in 2024.
 
 
-## Professional Service
-- **Program Chair:**
-    - <a href="https://www.aimlsystems.org/2023/">AIMLSystems 2023</a>
-    - <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks">NeurIPS'22 Datasets and Benchmarks track </a>
-- **Workshop Organizer:** 
-   - <a href="https://sites.google.com/view/rcv-at-eccv-2022/home"> Responsible Computer Vision (ECCV'22) </a>
-   - <a href="https://xai4cv.github.io/workshop"> XAI4CV: Explainable Artificial Intelligence for Computer Vision (CVPR'22) </a>
-   - <a href="https://sites.google.com/view/rcv-cvpr2021"> Responsible Computer Vision} (CVPR'21) </a>
-- **Area Chair:**
-    - WACV'24
-    - AAAI'22
-    - WiML@NeurIPS'21, CVPR’21
-    - WiML’20
-- **Program Committee Member:** AAAI-20
-- **Journal Reviewer:** 
-   - IEEE Trans. of Image Proc. 2013 - 2019, IEEE Trans. on Multimedia 2016 - 2019
-   - Elec. Letters 2016 - 2019, IEEE Trans. on Circuits and Syst. for Video Tech. 2015 - 2019
-   - Digital Signal Proc. 2015 - 2019, EURASIP J. on Image and Video Proc. 2015 - 2019
-   - J. of Selected Topics in Signal Proc. 2015 - 2019
-- **Conference Reviewer:** 
-    - CVPR 2023, ICVGIP 2023
-    - CVPR 2022, NeurIPS 2022, ECCV 2022, ICVGIP 2022, WiML 2022, AAAI 2022
-    - ICVGIP 2021, WiML 2021
-    - CVPR 2020, AAAI 2020, WiML 2020, ICVGIP 2020
-    - WiML 2019, ICVGIP 2019
-    - ICVGIP 2018
-    - ACM SIGGRAPH 2017, ICVGIP 2017
-    - ICVGIP 2014
- 
+
+ **Note to prospective students:**
+- If you are currently a **MS student** at BU and are interested in working with me, please first take either <a href="https://docs.google.com/document/d/e/2PACX-1vSiLhPTTrSwnJKsfEQBB5QfnJV__sYH1iMlDXggRxgKzQb-TvTneWEX0JrFZhjFE8va7ZZbhgT0emWX/pub"> CS599 (Advanced Topics in Computer Vision) </a> or <a href="https://sites.google.com/view/cs542fall2025"> CS542 (Principles of Machine Learning) </a>, or <a href="https://docs.google.com/document/d/e/2PACX-1vQ-JiPOb-4qfGpleLgKZ3EuX17gwojbG_vs7Fz66w5UskvLsmR6Q0y1PkLfEVGIBbUNxpOAl9up5I8n/pub"> CS541 (Applied achine Learning) </a>. I do not recruit students who haven't first taken one of these courses. **Please do not email me before taking these courses.**
+- If you are interested in applying to BU as a **PhD student** and are interested in working with me, mention my name in your application. It is not necessary to contact me and attach your application.
+- **Due to large volumes, I am unable to respond to your emails.**
+
 ## Short Bio
 Deepti is an Assistant Professor in the Department of Computer Science in Boston University. Her research interests are in Computer Vision and Machine Learning, with a special focus improving the safety, interpretability, and robustness of machine learning systems. Previously she spent over an year as a researcher at Runway and over 5 years at Meta AI Research working on image and video understanding models, fair and inclusive computer vision models, and ML explainability. She obtained her PhD at the University of Texas at Austin in 2017 on perceptual image and video quality assessment for real-world content. She has served as a program chair for NeurIPS 2022 Dataset and Benchmarks track, AIMLsystems'23, and an area chair for several conferences such as IEEE Conference on Computer Vision and Pattern Recognition (CVPR), IEEE Winter Conference on Applications of Computer Vision (WACV), Women in Machine Learning (WiML), and Association for the Advancement of Artificial Intelligence (AAAI). She organized several workshops on the topics of responsible and explainable computer vision at top-tier machine learning conferences.
