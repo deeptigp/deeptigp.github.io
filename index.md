@@ -1,6 +1,6 @@
 <br>
 <figure>
- <img align="left" src="/assets/img/deepti-profile-oct25.png" width="175" height="250" hspace="25" vspace="25">
+ <img align="left" src="/assets/img/deepti-profile-oct25.png" width="175" height="220" hspace="25" vspace="25">
 <figcaption> [<a href="mailto: dghadiya [at] bu [dot] edu">Email</a>] [<a href="https://scholar.google.com/citations?user=NyKCrmoAAAAJ&hl=en&authuser=1">Google Scholar</a>] 
  [<a href="https://twitter.com/deeptigp">Twitter</a>] 
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
@@ -8,7 +8,7 @@
 </figure>
 <br> <br>
 I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a>. I am also an Affiliated Faculty with the <a href="https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/"> Department of Electrical and Computer Engineering</a> and <a href="https://www.bu.edu/cds-faculty/"> Faculty of Computing & Data Sciences</a> and an academic collaborator with Runway. My research interests are in building safe, interpretable, and robust computer vision systems and also on improving their reasoning capabilities. 
-<br> <br> <br>
+<br> <br> <br><br>
 
 ## Research Group
 **PhD students**
