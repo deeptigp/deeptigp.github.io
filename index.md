@@ -18,6 +18,7 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 - Serving as an Area Chair and a PC for <a href="https://cvpr.thecvf.com/Conferences/2026/Organizers"> Broadening Participation</a> at CVPR'26! Goal of BP is to identify students who don't have the financial means to attend and support them.
 
 ## Invited Talks
+- [May'26] Invited talks at <a href="https://mila.quebec/en/mila-tea-talks"> MILA Tea talks </a> on Efficiency and Robustness of MLLMs <a href="https://www.youtube.com/watch?v=KAdhh5ajj_4"> [video recording] </a>
 - [Feb'26] Invited talks at the Computer Vision seminar at Northeastern University and <a href="https://trustworthy-ai-workshop.github.io/encore-2026/"> NSF ENCORE Worskhop </a> held at USCD.
 - Gave two talks at ICCV'25, one on interpretability of generative models at <a href="https://excv-workshop.github.io/" >Explainable Computer Vision: Quo Vadis? </a>, another on the techniques to improve fine-grained prompt alignment of generations at <a href="https://cvam-workshop.github.io/"> Computer Vision in Advertising and Marketing </a>
 
