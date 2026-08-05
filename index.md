@@ -10,6 +10,7 @@ I am an Assistant Professor at Boston University in the <a href="https://www.bu.
 <br> <br> 
 
 ## News
+- [July'26] Invited lecture at <a href="https://www.acvss.ai/"> African Computer Vision Summer School (ACVSS) </a> on Generative Modeling. 
 - [April'26] Two papers accepted at CVPR'26! <a href="https://arxiv.org/pdf/2511.22826"> Some Modalities are More Equal Than Others</a> (Findings) and <a href="https://arxiv.org/pdf/2602.16968"> DDiT</a> is a highlight ⚡️⚡️
 - [Feb'26] Our work to build <a href="https://www.bu.edu/articles/2026/can-artificial-intelligence-help-emergency-responders-save-children/?utm_campaign=social_experts&utm_source=linkedin&utm_medium=link&utm_content=research_publichealth"> AI assistants for pediatric emergency care </a> was covered by BU News!
 - [Dec'25] Interviewed by <a href="https://www.rsipvision.com/ComputerVisionNews-2025December/21/"> Computer Vision News </a> on my research trajectory.
