@@ -6,10 +6,11 @@
  [<a href="https://www.linkedin.com/in/deeptigp/">LinkedIn</a>] 
 </figcaption>
 </figure>
-I am an Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a>. I am also an Affiliated Faculty with the <a href="https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/"> Department of Electrical and Computer Engineering</a> and <a href="https://www.bu.edu/cds-faculty/"> Faculty of Computing & Data Sciences</a>. My research interests are in building safe, interpretable, and robust computer vision systems and also on improving their reasoning capabilities. 
+I am a Moorman-Simon Interdisciplinary Career Development Assistant Professor at Boston University in the <a href="https://www.bu.edu/cs/"> Department of Computer Science </a>. I am also an Affiliated Faculty with the <a href="https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/"> Department of Electrical and Computer Engineering</a> and <a href="https://www.bu.edu/cds-faculty/"> Faculty of Computing & Data Sciences</a>. My research interests are in building safe, interpretable, and robust computer vision systems and also on improving their reasoning capabilities. 
 <br> <br> 
 
 ## News
+- [Sept'26] Appointed as a co-director of Co-Director of the <a href="https://www.bu.edu/hic/centers-and-initiatives-2/air/"> Artificial Intelligence Research (AIR) Initiative </a> at the Hariri Institute at BU! 
 - [July'26] Invited lecture at <a href="https://www.acvss.ai/"> African Computer Vision Summer School (ACVSS) </a> on Generative Modeling. 
 - [April'26] Two papers accepted at CVPR'26! <a href="https://arxiv.org/pdf/2511.22826"> Some Modalities are More Equal Than Others</a> (Findings) and <a href="https://arxiv.org/pdf/2602.16968"> DDiT</a> is a highlight ⚡️⚡️
 - [Feb'26] Our work to build <a href="https://www.bu.edu/articles/2026/can-artificial-intelligence-help-emergency-responders-save-children/?utm_campaign=social_experts&utm_source=linkedin&utm_medium=link&utm_content=research_publichealth"> AI assistants for pediatric emergency care </a> was covered by BU News!
