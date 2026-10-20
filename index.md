@@ -18,7 +18,6 @@ I am a Moorman-Simon Interdisciplinary Career Development Assistant Professor at
 - [Dec'25] Interviewed by <a href="https://www.rsipvision.com/ComputerVisionNews-2025December/21/"> Computer Vision News </a> on my research trajectory.
 - Received the <a href="https://www.nsf.gov/focus-areas/ai/nairr"> NAIRR Deep Partnership program </a> award!  
 - Received <a href="https://www.bu.edu/articles/2025/bu-junior-faculty-career-development-professors/"> Moorman-Simon Interdisciplinary Career Development Professorship </a> award from Boston University for the years 2025-2028 for conducting interdisciplinary work!  
-- Serving as an Area Chair and a PC for <a href="https://cvpr.thecvf.com/Conferences/2026/Organizers"> Broadening Participation</a> at CVPR'26! Goal of BP is to identify students who don't have the financial means to attend and support them.
 
 ## Invited Talks
 - [May'26] Invited talks at <a href="https://mila.quebec/en/mila-tea-talks"> MILA Tea talks </a> on Efficiency and Robustness of MLLMs <a href="https://www.youtube.com/watch?v=KAdhh5ajj_4"> [video recording] </a>
