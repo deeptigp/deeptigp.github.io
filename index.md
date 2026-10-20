@@ -10,6 +10,7 @@ I am a Moorman-Simon Interdisciplinary Career Development Assistant Professor at
 <br> <br> 
 
 ## News
+- [Oct'26] Invited talk at <a href="https://www.microsoft.com/en-us/research/event/microsoft-research-new-england-generative-modeling-sampling-seminar/> Microsoft Research New England Generative Modeling & Sampling Seminar</a> on Improving the Efficiency and Robustness of Generative Models. 
 - [Sept'26] Appointed as a co-director of Co-Director of the <a href="https://www.bu.edu/hic/centers-and-initiatives-2/air/"> Artificial Intelligence Research (AIR) Initiative </a> at the Hariri Institute at BU! 
 - [July'26] Invited lecture at <a href="https://www.acvss.ai/"> African Computer Vision Summer School (ACVSS) </a> on Generative Modeling. 
 - [April'26] Two papers accepted at CVPR'26! <a href="https://arxiv.org/pdf/2511.22826"> Some Modalities are More Equal Than Others</a> (Findings) and <a href="https://arxiv.org/pdf/2602.16968"> DDiT</a> is a highlight ⚡️⚡️
